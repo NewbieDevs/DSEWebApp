@@ -55,6 +55,13 @@ a:hover{
     top: -0.5px;
 }
 
+
+/* Set the border color to the desired color */ 
+.navbar-toggler-icon{
+    color: black
+}
+
+
 /* navigation End */
 
 .whitespace{
@@ -136,69 +143,32 @@ a:hover{
     margin-bottom: 5vh;
 }
 
+.container-fluid-home{
+    margin-top: 6vh;
 
-/* Container holding the image and the text */
-.h2-rel{
-    color: black
 }
 
-.container-homepage {
-    position: relative;
+.row-home-1{
+    margin: auto;
+    /* border: 2px solid black; */
+    justify-content: center;
+}
+
+.card-home{
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.card-home h5{
     text-align: center;
-    color: white;
-  }
-  
-  /* Bottom left text */
-  .bottom-left {
-    position: absolute;
-    top: 20vh;
-    left: 28vw;
-  }
-  
-  /* Top left text */
-  .top-left {
-    position: absolute;
-    top: 6vh;
-    left: 40.5vw;
-  }
-  
-  /* Top right text */
-  .top-right {
-    position: absolute;
-    top: 12vh;
-    right: 33.5vw;
-  }
-  
-  /* Bottom right text */
-  .bottom-right {
-    position: absolute;
-    top: 20vh;
-    right: 25.5vw;
-  }
-  
-  /* Centered text */
-  .centered-homepage{
-    width: 30vw;
-    height: 26vh;
-    background: white;
-    line-height: 40px;
-    position: absolute;
-    top: 76%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
+}
 
-  .top-right-left{
-    position: absolute;
-    top: 22.5vh;
-    right: 38vw;
-  }
+#card-home-down{
+    margin-top: 10vh;
+}
 
-  .bottom-right-left{
-    position: absolute;
-    top: 16vh;
-    left: 23.5vw;
-  }
+
+ 
 
 /* home page end */
 
