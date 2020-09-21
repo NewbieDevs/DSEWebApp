@@ -46,6 +46,7 @@ a:hover{
     margin: auto;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
+    box-shadow: 1px 1px 4px black;
 }
 
 .nav-img{
@@ -99,9 +100,17 @@ a:hover{
 
 
 .card-college{
+    border: 2px solid white;
     margin-top: 3vh;
     padding: 10px;
     border-radius: 15px;
+    box-shadow: 1px 1px 4px black;
+    
+}
+
+.card-college:hover{
+	transition: transform 1s;
+	transform: scale3d(1.04, 1.04, 1.04);
 }
 
 /* aside start */
@@ -113,6 +122,7 @@ a:hover{
     height: auto;
     position: static;
     background-color: #73D2DE;
+    box-shadow: 1px 1px 4px black;
 }
 /* aside end*/
 
@@ -127,6 +137,7 @@ a:hover{
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background: #73D2DE;
+    box-shadow: 1px 1px 8px black;
 }
 
 /* footer end */
@@ -156,8 +167,16 @@ a:hover{
 
 .card-home{
     border-radius: 15px;
+    border: 2px solid white;
     margin: 10px;
+    box-shadow: 1px 1px 4px black;
 }
+
+.card-home:hover{
+	transition: transform 1s;
+	transform: scale3d(1.04, 1.04, 1.04);
+}
+
 
 .card-home h5{
     text-align: center;
@@ -194,6 +213,8 @@ h1{
 .card-contact{
     border-radius: 15px;
     margin: auto;
+    box-shadow: 1px 1px 4px black;
+    border: 2px solid white;
 }
 
 .card-img-top-contact{
