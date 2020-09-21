@@ -6,6 +6,11 @@
     transition: 0.3s;
 }
 
+.btn:hover {
+    background-color: #ceaba1;
+    color: white;
+}
+
 thead {
     background: #73D2DE;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -22,4 +27,12 @@ td {
     background-color: #d4edf1;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+}
+
+td:hover {
+    font-size: large;
+    font: outline;
+    font-style: inherit;
+    font-weight: bolder;
+    background-color: #b6e3e9;
 }
