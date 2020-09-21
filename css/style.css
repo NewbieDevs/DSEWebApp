@@ -237,6 +237,11 @@ h1{
 
 
 /* cutoff start */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .container-fluid-cutoff{
     width: 90vw;
