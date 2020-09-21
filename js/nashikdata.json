@@ -1,0 +1,236 @@
+[{
+        "srno": 3,
+        "InstiCode": 5003,
+        "InstiName": "University Institute of Chemical Technology, North Maharashtra                     University, Jalgaon"
+    },
+    {
+        "srno": 4,
+        "InstiCode": 5004,
+        "InstiName": "Government College of Engineering, Jalgaon"
+    },
+    {
+        "srno": 17,
+        "InstiCode": 5103,
+        "InstiName": "Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao                     Deore College of Engineering,Dhule"
+    },
+    {
+        "srno": 18,
+        "InstiCode": 5104,
+        "InstiName": "Shramsadhana Bombay Trust, College of Engineering & Technology,                     Jalgaon"
+    },
+    {
+        "srno": 19,
+        "InstiCode": 5105,
+        "InstiName": "G.H. Raisoni Institute of Engineering and Management, Jalgaon"
+    },
+    {
+        "srno": 20,
+        "InstiCode": 5106,
+        "InstiName": "Khandesh College Education Society's College Of Engineering And                     Management, Jalgaon"
+    },
+    {
+        "srno": 21,
+        "InstiCode": 5107,
+        "InstiName": "Shri Gulabrao Deokar College of Engineering, Jalgaon"
+    },
+    {
+        "srno": 22,
+        "InstiCode": 5108,
+        "InstiName": "Maratha Vidya Prasarak Samaj's Karmaveer Adv. Baburao Ganpatrao                     Thakare College Of Engineering, Nashik"
+    },
+    {
+        "srno": 23,
+        "InstiCode": 5109,
+        "InstiName": "Sandip Foundation, Sandip Institute of Technology and Research                     Centre, Mahiravani, Nashik"
+    },
+    {
+        "srno": 35,
+        "InstiCode": 5121,
+        "InstiName": "K. K. Wagh Institute of Engineering Education and Research, Nashik"
+    },
+    {
+        "srno": 38,
+        "InstiCode": 5124,
+        "InstiName": "Jagadamba Education Soc. Nashik's S.N.D. College of Engineering                     & Reserch, Babulgaon"
+    },
+    {
+        "srno": 39,
+        "InstiCode": 5125,
+        "InstiName": "Pravara Rural Education Society's Sir Visvesvaraya Institute of                     Technology, Chincholi Dist. Nashik"
+    },
+    {
+        "srno": 44,
+        "InstiCode": 5130,
+        "InstiName": "Brahma Valley College of Engineering & Research, Trimbakeshwar,                     Nashik"
+    },
+    {
+        "srno": 46,
+        "InstiCode": 5139,
+        "InstiName": "Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar."
+    },
+    {
+        "srno": 48,
+        "InstiCode": 5151,
+        "InstiName": "MET Bhujbal Knowledge City MET League's Engineering College, Adgaon,                     Nashik."
+    },
+    {
+        "srno": 54,
+        "InstiCode": 5160,
+        "InstiName": "Sanjivani Rural Education Society's Sanjivani College of Engineering,                         Kopargaon"
+    },
+    {
+        "srno": 55,
+        "InstiCode": 5161,
+        "InstiName": "Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar"
+    },
+    {
+        "srno": 56,
+        "InstiCode": 5162,
+        "InstiName": "Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College                         of Engineering, Sangamner"
+    },
+    {
+        "srno": 57,
+        "InstiCode": 5164,
+        "InstiName": "P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada,                         Dist. Nandurbar"
+    },
+    {
+        "srno": 59,
+        "InstiCode": 5168,
+        "InstiName": "T.M.E. Society's J.T.Mahajan College of Engineering, Faizpur"
+    },
+    {
+        "srno": 60,
+        "InstiCode": 5169,
+        "InstiName": "Nagaon Education Society's Gangamai College of Engineering,                         Nagaon, Tal Dist Dhule"
+    },
+    {
+        "srno": 61,
+        "InstiCode": 5170,
+        "InstiName": "Hindi Seva Mandal's Shri Sant Gadgebaba College of Engineering                         & Technology, Bhusawal"
+    },
+    {
+        "srno": 62,
+        "InstiCode": 5171,
+        "InstiName": "Godavari Foundation's Godavari College Of Engineering, Jalgaon"
+    },
+    {
+        "srno": 63,
+        "InstiCode": 5172,
+        "InstiName": "R. C. Patel Institute of Technology, Shirpur"
+    },
+    {
+        "srno": 64,
+        "InstiCode": 5173,
+        "InstiName": "SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering,                         (Jain Gurukul), Neminagar,Chandwad,(Nashik)"
+    },
+    {
+        "srno": 65,
+        "InstiCode": 5176,
+        "InstiName": "G. H. Raisoni College of Engineering and Management, Ahmednagar"
+    },
+    {
+        "srno": 66,
+        "InstiCode": 5177,
+        "InstiName": "Matoshri College of Engineering and Research Centre, Eklahare,                         Nashik"
+    },
+    {
+        "srno": 67,
+        "InstiCode": 5179,
+        "InstiName": "Vishwabharati Academy's College of Engineering, Ahmednagar"
+    },
+    {
+        "srno": 68,
+        "InstiCode": 5181,
+        "InstiName": "Gokhale Education Society's, R.H. Sapat College of Engineering,                         Management Studies and Research, Nashik"
+    },
+    {
+        "srno": 69,
+        "InstiCode": 5182,
+        "InstiName": "Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College                         of Engineering, Anjaneri, Trimbakeshwar Road, Nashik"
+    },
+    {
+        "srno": 71,
+        "InstiCode": 5184,
+        "InstiName": "Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute                         of Engineering & Research, Agaskhind Tal. Sinnar"
+    },
+    {
+        "srno": 72,
+        "InstiCode": null,
+        "InstiName": ""
+    },
+    {
+        "srno": 179,
+        "InstiCode": 5303,
+        "InstiName": "Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of                             Institutions (Integrated Campus)-Parikrama, Kashti                             Shrigondha,"
+    },
+    {
+        "srno": 182,
+        "InstiCode": 5322,
+        "InstiName": "Jamia Institute Of Engineering And Management Studies,                             Akkalkuwa"
+    },
+    {
+        "srno": 187,
+        "InstiCode": 5330,
+        "InstiName": "PUNE VIDYARTHI GRIHA'S COLLEGE OF ENGINEERING & SHRIKRUSHNA                             S. DHAMANKAR INSTITUTE OF MANAGEMENT, NASHIK"
+    },
+    {
+        "srno": 188,
+        "InstiCode": 5331,
+        "InstiName": "Sandip Foundation's, Sandip Institute of Engineering &                             Management, Nashik"
+    },
+    {
+        "srno": 211,
+        "InstiCode": 5380,
+        "InstiName": "Adsul's Technical Campus, Chas Dist. Ahmednagar"
+    },
+    {
+        "srno": 212,
+        "InstiCode": 5381,
+        "InstiName": "Shri. Jaykumar Rawal Institute of Technology, Dondaicha."
+    },
+    {
+        "srno": 213,
+        "InstiCode": 5382,
+        "InstiName": "Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri.                             Chhatrapati Shivaji Maharaj College of Engineering,                             Nepti"
+    },
+    {
+        "srno": 219,
+        "InstiCode": 5390,
+        "InstiName": "K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute                             of Engineering Education & Research, Nashik."
+    },
+    {
+        "srno": 224,
+        "InstiCode": 5396,
+        "InstiName": "College of Engineering and Technology ,North Maharashtra                             Knowledge City, Jalgaon"
+    },
+    {
+        "srno": 226,
+        "InstiCode": 5399,
+        "InstiName": "Sanghavi College of Engineering, Varvandi, Nashik."
+    },
+    {
+        "srno": 228,
+        "InstiCode": 5401,
+        "InstiName": "Jawahar Education Society's Institute of Technology, Management                             & Research, Nashik."
+    },
+    {
+        "srno": 234,
+        "InstiCode": 5408,
+        "InstiName": "Vidya Niketan College of Engineering, Bota Sangamner"
+    },
+    {
+        "srno": 235,
+        "InstiCode": 5409,
+        "InstiName": "Rajiv Gandhi College of Engineering, At Post Karjule Hariya                             Tal.Parner, Dist.Ahmednagar"
+    },
+    {
+        "srno": 237,
+        "InstiCode": 5411,
+        "InstiName": "Maulana Mukhtar Ahmad Nadvi Technical Campus, Malegaon."
+    },
+    {
+        "srno": 274,
+        "InstiCode": 5449,
+        "InstiName": "Shri Vile Parle Kelavani Mandal's Institute of Technology,                             Dhule"
+    }
+]
