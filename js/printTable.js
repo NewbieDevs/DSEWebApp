@@ -3,7 +3,7 @@ function loadTable(fname) {
     $.getJSON("../js/" + fname, function(json) {
             console.log("Working");
             var table1obj = json;
-            var tbl = $("<table class='table table-hover table-bordered'/>").attr("id", "mytable");
+            var tbl = $("<table class='table table-hover table-bordered table-responsive-md'/>").attr("id", "mytable");
             var tbHead = "<tr class='thead-cutoff'>" + "<th>Sr No</th>" + "<th>Institute Code</th>" + "<th>Institute Name</th>" + "<th>CAP I</th>" + "<th>CAP II</th>" + "<th>CAP III</th>" + "</tr>";
 
             //alert(JSON.stringify(table1obj))
