@@ -208,6 +208,7 @@ h1{
     width: 60%;
     height: auto;
     /* border: 2px solid black; */
+    margin: auto;
 }
 
 .card-contact{
@@ -219,6 +220,7 @@ h1{
 
 .card-img-top-contact{
     height: 20vh;
+
 }
 
 .fa-envelope{
@@ -238,7 +240,7 @@ h1{
 
 /* cutoff start */
 .center {
-  display: block;
+  
   margin-left: auto;
   margin-right: auto;
 }
@@ -262,12 +264,36 @@ h1{
 }
 /* cutoff End */
 
-@media (max-width: 768px){
 
-    .row{
-        justify-content: center;
-        display: block;
-        flex-direction: column;
+
+
+
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    .nav-img{
+        left: 50;
     }
+
+ }
+
+/* Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) { 
+    
+
+ }
+
+/* Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) { 
+
+
 }
 
+/* Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) { 
+
+
+}
+
+h
