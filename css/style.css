@@ -38,6 +38,17 @@ a:hover{
     color: black;
 }
 
+/* Footer Button Style  */
+footer .input-group .btn-sm{
+    color: purple;
+    border: 1px solid black;
+}
+
+footer h5{
+    font-family: 'Noto Serif', serif !important;
+}
+
+
 /* Navigation start */
 
 .navbar{
