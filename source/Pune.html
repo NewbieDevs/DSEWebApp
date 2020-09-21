@@ -1,96 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pune Region</title>
+    <title>
+        Pune Region
+    </title>
+    <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="../css/style.css">
+    <script>
+        $(function() {
+            $('#download').hide();
+        });
+    </script>
+
 </head>
-<body onload="loadTable('punedata.json')">
 
-    <!-- Navigation Bar start -->
-    <nav class="navbar navbar-expand-lg ">
+<body onload="loadTable('punedata.json','Pune')">
 
-        <!-- Logo -->
-        <a class="navbar-brand a-light" href="#">Navbar</a>
-
-        <!-- Search box -->
-        <!-- <form class="form-inline my-2 my-lg-0 mx-5">
-      <input class="form-control mr-sm-2 " type="search" placeholder="Search">
-      <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
-    </form> -->
-
-        <!-- Toggle -->
-        <button class="navbar-toggler navbar-light" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-            <ul class="navbar-nav mr-auto mt-2 mt-lg-0 mx-5">
-                <li class="nav-item ">
-                    <a class="nav-link a-light" href="../index.html">Home</span></a>
-                </li>
-                <li class="nav-item ">
-                    <a class="nav-link a-light" href="college.html">Colleges </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link a-light" href="contact.html">Contact us </a>
-                </li>
-                <li class="nav-item ">
-                    <a class="nav-link a-light" href="cutoffcard.html">Cut-Off</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
-    <!-- Navigation Bar End -->
-
-    <!-- Whitespace Start -->
-    <div class="whitespace"></div>
-    <!-- Whitespace End -->
-
-    <!-- Main content start -->
-    <img class="nav-img" src="../assets/images/undraw_happy_announcement_ac67.svg" alt="res">
-
-    <div class="container-fluid container-fluid-cutoff">
-        <div class="row row-cutoff-1">
-            <div class="col">
-                <a class="a-dark" href="./Amravati.html">
-                    <h5>Amravati</h5>
-                </a>
-            </div>
-            <div class="col">
-                <a class="a-dark" href="./Aurangabad.html">
-                    <h5>Aurangabad</h5>
-                </a>
-            </div>
-            <div class="col">
-                <a class="a-dark" href="./Mumbai.html">
-                    <h5>Mumbai</h5>
-                </a>
-            </div>
-            <div class="col">
-                <a class="a-dark" href="./Nagpur.html">
-                    <h5>Nagpur</h5>
-                </a>
-            </div>
-            <div class="col">
-                <a class="a-dark" href="./Nashik.html">
-                    <h5>Nashik</h5>
-                </a>
-            </div>
-            <div class="col">
-                <a class="a-dark" href="./Pune.html">
-                    <h5>Pune</h5>
-                </a>
-            </div>
-        </div>
-        <div class="row row-cutoff-2" >
-            <!--[if lt IE 7]>
+    <!--[if lt IE 7]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
     <div id="div1">
@@ -98,139 +27,8 @@
     </div>
     <script type="text/javascript" src="../js/printTable.js"></script>
 
-        </div>
-    </div>
 
-    <!-- Main content End -->
-
-    <!-- Whitespace Start -->
-    <div class="whitespace"></div>
-    <!-- Whitespace End -->
-
-    <!-- Footer Start-->
-    <footer class="page-footer font-small blue pt-4" ">
-
-  <!-- Footer Links -->
-  <div class="container-fluid text-center text-md-left ">
-
-    <!--Grid row-->
-    <div class="row " style="justify-content: center; ">
-
-      <!--Grid column-->
-      <!-- <div class="col-md-5 mb-4 "> -->
-
-        <!-- Form -->
-        <!-- <form class="form-inline ">
-          <input class="form-control form-control-sm mr-3 w-75 " type="text " placeholder="Search "
-            aria-label="Search ">
-          <i class="fa fa-search " aria-hidden="true "></i>
-        </form> -->
-        <!-- Form -->
-
-      <!-- </div> -->
-      <!--Grid column-->
-
-      <!--Grid column-->
-      <div class="col-md-5 mb-4 ">
-
-        <form class="input-group ">
-          <input type="text " class="form-control form-control-sm " placeholder="Your email "
-            aria-label="Your email " aria-describedby="basic-addon2 ">
-          <div class="input-group-append ">
-            <button class="btn btn-sm btn-outline-light my-0 mx-2 " type="button ">Sign up</button>
-          </div>
-        </form>
-
-      </div>
-      <!--Grid column-->
-
-    </div>
-    <!--Grid row-->
-
-    <!-- Grid row -->
-    <div class="row mt-md-4 ">
-
-      <!-- Grid column -->
-      <div class="col-md-6 mt-md-0 mt-3 ">
-
-        <!-- Content -->
-        <a class="a-light "  href="# "><h5 class="text-uppercase ">LOGO</h5></a>
-        <p>LOGO IS A PLATFORM FOR POLYTECHNIC STUDENTS WHO WANT TO SEARCH FOR COLLEGES TO TAKE ADMISSION IN DIRECT SECOND YEAR ENGINEERING COLLEGE.</p>
-
-      </div>
-      <!-- Grid column -->
-
-      <hr class="clearfix w-100 d-md-none pb-3 ">
-
-      <!-- Grid column -->
-      <div class="col-md-3 mb-md-0 mb-3 ">
-
-        <!-- Links -->
-        <h5 class="text-uppercase ">Links</h5>
-
-        <ul class="list-unstyled ">
-          <li>
-            <a class="a-light " href="index.html ">Home</a>
-          </li>
-          <li>
-            <a class="a-light " href="contact.html ">Contact us</a>
-          </li>
-          <li>
-            <a class="a-light "  href="college.html ">Colleges</a>
-          </li>
-          <li>
-            <a class="a-light " href="cutoff.html ">Cutt-Off</a>
-          </li>
-        </ul>
-
-      </div>
-      <!-- Grid column -->
-
-      <!-- Grid column -->
-      <div class="col-md-3 mb-md-0 mb-3 ">
-
-        <!-- Links -->
-        <h5 class="text-uppercase ">Follow Us:</h5>
-
-        <ul class="list-unstyled ">
-          <li>
-            <a class="a-light " href="#! "><i class="fa fa-github-square " aria-hidden="true "></i>
-              Github</a>
-          </li>
-          <li>
-            <a class="a-light " href="#! "><i class="fa fa-facebook-square " aria-hidden="true "></i> Facebook</a>
-          </li>
-          <li>
-            <a class="a-light " href="#! "><i class="fa fa-linkedin-square " aria-hidden="true "></i> Linkedin</a>
-          </li>
-          <li>
-            <a class="a-light " href="#! "><i class="fa fa-twitter-square " aria-hidden="true "></i>
-              Twitter</a>
-          </li>
-        </ul>
-
-      </div>
-      <!-- Grid column -->
-
-    </div>
-    <!-- Grid row -->
-
-  </div>
-  <!-- Footer Links -->
-
-  <!-- Copyright -->
-  <div class="footer-copyright text-center py-3 ">© 2020 Copyright:
-    <a class="a-light " href="# "> Dsy.com</a>
-  </div>
-  <!-- Copyright -->
-
-</footer>
-<!-- Footer end-->
-  
 
 </body>
-
-
-</html>
 
 </html>
