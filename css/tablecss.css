@@ -1,0 +1,25 @@
+.btn {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    text-align: center;
+    transition: 0.3s;
+}
+
+thead {
+    background: #73D2DE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+.thead-dark {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+}
+
+td {
+    background-color: #d4edf1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
