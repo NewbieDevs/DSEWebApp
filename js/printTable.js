@@ -1,6 +1,6 @@
 function loadTable(fname) {
 
-    $.getJSON("../src/javascript/" + fname, function(json) {
+    $.getJSON("../js/" + fname, function(json) {
             console.log("Working");
             var table1obj = json;
             var tbl = $("<table class='table table-hover table-dark table-bordered'/>").attr("id", "mytable");
