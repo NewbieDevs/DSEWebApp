@@ -253,7 +253,11 @@ h1{
     margin-bottom: 10vh;
     text-align: center;
 }
-thead{
+.thead-cutoff{
+    background: #73D2DE;
+}
+
+.btn-cutoff{
     background: #73D2DE;
 }
 /* cutoff End */
