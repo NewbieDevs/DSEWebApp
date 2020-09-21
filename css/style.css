@@ -38,21 +38,6 @@ a:hover{
     color: black;
 }
 
-/* Footer Button Style  */
-footer .input-group .btn-sm{
-    color: purple;
-    border: 1px solid black;
-}
-
-footer h5{
-    font-family: 'Noto Serif', serif !important;
-}
-
-footer .fa a{
-    color: rgba(49, 48, 48, 0.9);
-}
-
-
 /* Navigation start */
 
 .navbar{
@@ -252,6 +237,11 @@ h1{
 
 
 /* cutoff start */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .container-fluid-cutoff{
     width: 90vw;

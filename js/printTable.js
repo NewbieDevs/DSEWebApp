@@ -3,7 +3,7 @@ function loadTable(fname) {
     $.getJSON("../js/" + fname, function(json) {
             console.log("Working");
             var table1obj = json;
-            var tbl = $("<table class='table table-hover table-bordered'/>").attr("id", "mytable");
+            var tbl = $("<table class='table table-hover table-dark table-bordered'/>").attr("id", "mytable");
             var tbHead = "<tr class='thead-dark'>" + "<th>Sr No</th>" + "<th>Institute Code</th>" + "<th>Institute Name</th>" + "<th>CAP I</th>" + "<th>CAP II</th>" + "<th>CAP III</th>" + "</tr>";
 
             //alert(JSON.stringify(table1obj))
@@ -16,11 +16,11 @@ function loadTable(fname) {
                 var td1 = "<td>" + cnt + "</td>";
                 var td2 = "<td>" + table1obj[i]["InstiCode"] + "</td>";
                 var td3 = "<td>" + table1obj[i]["InstiName"] + "</td>";
-                var td4 = "<td>" + "<a class='btn' target='_blank' href='../assets/DiplomaCollegesCutoff/cap1/" + table1obj[i]["InstiCode"] +
+                var td4 = "<td>" + "<a target='_blank' href='../assets/DiplomaCollegesCutoff/cap1/" + table1obj[i]["InstiCode"] +
                     ".pdf'>VIEW</a>" + "</td>";
-                var td5 = "<td>" + "<a class='btn' target='_blank' href='../assets/DiplomaCollegesCutoff/cap2/" + table1obj[i]["InstiCode"] +
+                var td5 = "<td>" + "<a target='_blank' href='../assets/DiplomaCollegesCutoff/cap2/" + table1obj[i]["InstiCode"] +
                     ".pdf'>VIEW</a>" + "</td>";
-                var td6 = "<td>" + "<a class='btn'target='_blank' href='../assets/DiplomaCollegesCutoff/cap3/" + table1obj[i]["InstiCode"] +
+                var td6 = "<td>" + "<a target='_blank' href='../assets/DiplomaCollegesCutoff/cap3/" + table1obj[i]["InstiCode"] +
                     ".pdf'>VIEW</a>" + "</td></tr>";
 
 
