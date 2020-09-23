@@ -257,6 +257,10 @@ h1 {
     text-align: center;
 }
 
+.row-cutoff-2 {
+    width: 100%;
+}
+
 .thead-cutoff {
     background: #73D2DE;
 }
@@ -265,5 +269,20 @@ h1 {
     background: #73D2DE;
 }
 
+table {
+    display: table;
+    width: fit-content;
+}
+
+.calculator tr {
+    display: table-row;
+}
+
 
 /* cutoff End */
+
+.page-header {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
