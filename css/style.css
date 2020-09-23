@@ -158,12 +158,4 @@ table {
 }
 
 
-/* cutoff End */
 
-.card {
-    display: none;
-}
-
-.show {
-    display: inline-block!important;
-}
