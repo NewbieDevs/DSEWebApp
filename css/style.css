@@ -1,46 +1,44 @@
-body{
+body {
     height: 100%;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     background: #ECECEA;
-    font-family: 'Lato' ,sans serif;
+    font-family: 'Lato', sans serif;
 }
 
-
-
-.fa{
+.fa {
     color: white;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-.a-light{
-    
+.a-light {
     color: white;
 }
 
-a:hover{
+a:hover {
     text-decoration: none;
 }
-.a-light:hover{
-    
-    color:black;
-}
 
-.a-dark{
-    color: #73D2DE;
-}
-
-.a-dark:hover{
+.a-light:hover {
     color: black;
 }
 
+.a-dark {
+    color: #73D2DE;
+}
+
+.a-dark:hover {
+    color: black;
+}
+
+
 /* Navigation start */
 
-.navbar{
+.navbar {
     background-color: #73D2DE;
     width: 92vw;
     margin: auto;
@@ -49,7 +47,7 @@ a:hover{
     box-shadow: 1px 1px 4px black;
 }
 
-.nav-img{
+.nav-img {
     width: 15vw;
     position: absolute;
     left: 75vw;
@@ -57,64 +55,67 @@ a:hover{
 }
 
 
-/* Set the border color to the desired color */ 
-.navbar-toggler-icon{
+/* Set the border color to the desired color */
+
+.navbar-toggler-icon {
     color: black
 }
 
 
 /* navigation End */
 
-.whitespace{
+.whitespace {
     height: 5vh;
 }
 
+
 /* college page */
 
+
 /* main content start */
-.container-fluid-college{
+
+.container-fluid-college {
     width: 95vw;
 }
-.col-a{
+
+.col-a {
     width: 100%;
     border-radius: 15px;
     /* border: 2px solid black; */
 }
 
-.col-md-2-left{
+.col-md-2-left {
     padding: 20px;
     padding-left: 30px;
     border-radius: 15px;
     /* border: 2px solid black; */
 }
 
-.col-md-10-right{
-    
+.col-md-10-right {
     padding: 20px;
     padding-left: 50px;
-    
 }
+
 
 /* main content end */
 
-
-
-.card-college{
+.card-college {
     border: 2px solid white;
     margin-top: 3vh;
     padding: 10px;
     border-radius: 15px;
     box-shadow: 1px 1px 4px black;
-    
 }
 
-.card-college:hover{
-	transition: transform 1s;
-	transform: scale3d(1.04, 1.04, 1.04);
+.card-college:hover {
+    transition: transform 1s;
+    transform: scale3d(1.04, 1.04, 1.04);
 }
+
 
 /* aside start */
-.col-a-1{
+
+.col-a-1 {
     background: white;
     margin-top: 3vh;
     padding: 10px;
@@ -124,14 +125,17 @@ a:hover{
     background-color: #73D2DE;
     box-shadow: 1px 1px 4px black;
 }
+
+
 /* aside end*/
 
 
 /* college page */
 
+
 /* footer start */
 
-.page-footer{
+.page-footer {
     width: 92vw;
     margin: auto;
     border-top-left-radius: 15px;
@@ -140,160 +144,164 @@ a:hover{
     box-shadow: 1px 1px 8px black;
 }
 
+
 /* footer end */
 
 
 /* home page start */
 
-.home-img{
-    
-    /* border: 2px solid black; */
+/* .home-img {
+   
     width: 80vw;
     height: 80vh;
     margin-top: 5vh;
     margin-bottom: 5vh;
-}
+} */
 
-.container-fluid-home{
+.container-fluid-home {
     margin-top: 6vh;
-
 }
 
-.row-home-1{
+.row-home-1 {
     margin: auto;
     /* border: 2px solid black; */
     justify-content: center;
 }
 
-.card-home{
+.card-home {
     border-radius: 15px;
     border: 2px solid white;
-    margin: 10px;
+    margin: 1vw;
     box-shadow: 1px 1px 4px black;
 }
 
-.card-home:hover{
-	transition: transform 1s;
-	transform: scale3d(1.04, 1.04, 1.04);
+.card-home:hover {
+    transition: transform 1s;
+    transform: scale3d(1.04, 1.04, 1.04);
 }
 
-
-.card-home h5{
+.card-home h5 {
     text-align: center;
 }
 
-#card-home-down{
+#card-home-down {
     margin-top: 10vh;
+    height: 22rem;
 }
 
-
- 
 
 /* home page end */
 
 
 /* contact Start */
 
-.row-contact-2{
+.row-contact-2 {
     /* border: 2px solid black; */
     margin-top: 6vh;
     display: flex;
     margin-bottom: 5vh;
 }
 
-h1{
+h1 {
     text-align: center;
 }
-.contact-img{
+
+.contact-img {
     width: 60%;
     height: auto;
     /* border: 2px solid black; */
     margin: auto;
+    margin-bottom: 5vh;
 }
 
-.card-contact{
+.card-contact {
     border-radius: 15px;
     margin: auto;
     box-shadow: 1px 1px 4px black;
     border: 2px solid white;
 }
 
-.card-img-top-contact{
+.card-img-top-contact {
     height: 20vh;
-
 }
 
-.fa-envelope{
+.fa-envelope {
     color: #73D2DE;
 }
 
-.fa-telegram{
+.fa-telegram {
     color: #73D2DE;
 }
 
-.fa-facebook{
+.fa-facebook {
     color: #73D2DE;
 }
+
 
 /* contact End */
 
 
-/* cutoff start */
-.center {
-  
-  margin-left: auto;
-  margin-right: auto;
+/* cutoffcard start */
+
+.container-fluid-cutoffcard {
+    margin-top: 6vh;
+    margin-bottom: 6vh;
 }
 
-.container-fluid-cutoff{
-    width: 90vw;
+.row-cutoffcard-1 {
+    margin: auto;
+    /* border: 2px solid black; */
+    justify-content: center;
+}
+
+.card-cutoffcard {
+    border-radius: 15px;
+    border: 2px solid white;
+    margin: 1vw;
+    box-shadow: 1px 1px 4px black;
+}
+
+.card-cutoffcard:hover {
+    transition: transform 1s;
+    transform: scale3d(1.04, 1.04, 1.04);
+}
+
+.card-cutoffcard h5 {
+    text-align: center;
+}
+
+.card-cutoffcard{
+    height: 18rem;
+}
+
+#card-cutoffcard-down {
     margin-top: 10vh;
 }
 
-.row-cutoff-1{
-    margin-top: 5vh;
-    margin-bottom: 10vh;
-    text-align: center;
-}
-.thead-cutoff{
+
+
+.thead-cutoff {
     background: #73D2DE;
 }
 
-.btn-cutoff{
+.btn-cutoff {
     background: #73D2DE;
 }
+
+table {
+    display: table;
+    width: fit-content;
+}
+
+.calculator tr {
+    display: table-row;
+}
+
+
 /* cutoff End */
 
-
-
-
-
-
-
-/* Extra small devices (portrait phones, less than 576px)*/
-@media (max-width: 575.98px) { 
-    .nav-img{
-        left: 50;
-    }
-
- }
-
-/* Small devices (landscape phones, less than 768px)*/
-@media (max-width: 767.98px) { 
-    
-
- }
-
-/* Medium devices (tablets, less than 992px)*/
-@media (max-width: 991.98px) { 
-
-
+.page-header {
+    text-align: center;
+    background-color: black;
+    color: white;
 }
-
-/* Large devices (desktops, less than 1200px)*/
-@media (max-width: 1199.98px) { 
-
-
-}
-
-h
