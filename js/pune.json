@@ -490,11 +490,6 @@
         "InstiName": "Dinkarrao K. Shinde Smarak Trust, Dr. A.D. Shinde Institute Of Technology, Gadhinglaj"
     },
     {
-        "srno": 99,
-        "InstiCode": 6437,
-        "InstiName": "Shree Vitthal Edu. and Research Institute, College of Engineering (Polytechnic), Gopalpur, Pandharpur"
-    },
-    {
         "srno": 100,
         "InstiCode": 6439,
         "InstiName": "Y.D.Mane Institute of Technology, Kagal, Kolhapur"
@@ -594,16 +589,7 @@
         "InstiCode": 6722,
         "InstiName": "SHRI SOMESHWAR SHIKSHAN PRASARAK MANDALS SHARADCHANDRA PAWAR INSTITUTE OF TECHNOLOGY SOMESHWARNAGAR."
     },
-    {
-        "srno": 120,
-        "InstiCode": 6723,
-        "InstiName": "Chh.Shivaji Shikshan Mandal,Chh.Shivaji Polytechnic Institute,Vaduj, Tal-Khatav, Dist. Satara"
-    },
-    {
-        "srno": 121,
-        "InstiCode": 6724,
-        "InstiName": "Chhatrapati Shahu Education Society,Chhatrapati Shahu Polytechnic, A/P Atit, Dist Satara"
-    },
+
     {
         "srno": 122,
         "InstiCode": 6725,
@@ -773,11 +759,6 @@
         "srno": 155,
         "InstiCode": 6822,
         "InstiName": "Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet"
-    },
-    {
-        "srno": 156,
-        "InstiCode": 6824,
-        "InstiName": "Trinity Polytechnic, Pune"
     },
     {
         "srno": 157,
