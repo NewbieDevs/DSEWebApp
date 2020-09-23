@@ -65,6 +65,14 @@ a:hover {
     background: black;
 }
 
+input{
+    box-shadow: 1px 1px 4px black;
+}
+
+.card-img-top {
+    height: 20vh;
+    /* border: 2px solid black; */
+}
 
 /* Navigation start */
 
@@ -111,10 +119,10 @@ a:hover {
 /* home page start */
 
 
-#card-home-down {
+/* #card-home-down {
     margin-top: 10vh;
     height: 22rem;
-}
+} */
 /* home page end */
 
 
@@ -124,22 +132,12 @@ a:hover {
     margin: auto;
 }
 
-.card-img-top-contact {
-    height: 20vh;
-    /* border: 2px solid black; */
-}
+
 /* contact End */
 
 
 /* cutoffcard start */
 
-.card-cutoffcard{
-    height: 18rem;
-}
-
-#card-cutoffcard-down {
-    margin-top: 10vh;
-}
 
 .thead-cutoff {
     background: #73D2DE;
@@ -159,9 +157,3 @@ table {
 }
 
 /* cutoff End */
-
-.page-header {
-    text-align: center;
-    background-color: black;
-    color: white;
-}

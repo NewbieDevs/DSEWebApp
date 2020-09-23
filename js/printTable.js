@@ -4,8 +4,8 @@ function loadTable(fname, regionName) {
             console.log("Working");
             var table1obj = json;
             var tbl = $("<table class='table table-light table-hover table-bordered'/>").attr("id", "mytable");
-            var tbHead = "<tr class='thead-dark'>" + "<th>Sr No</th>" + "<th>Institute Code</th>" + "<th>Institute Name</th>" + "<th>CAP I</th>" + "<th>CAP II</th>" + "<th>CAP III</th>" + "</tr>";
-            var title = "<h3 class='page-header'>" + regionName + " Region</h3>"
+            var tbHead = "<tr class='thead'>" + "<th>Sr No</th>" + "<th>Institute Code</th>" + "<th>Institute Name</th>" + "<th>CAP I</th>" + "<th>CAP II</th>" + "<th>CAP III</th>" + "</tr>";
+            var title = "<h3 class='page-header text-center py-2'>" + regionName + " Region</h3>"
                 //alert(JSON.stringify(table1obj))
                 //$("#mytable").setAttribute("class", "table-hover");
             $("#titleDiv").append(title);
