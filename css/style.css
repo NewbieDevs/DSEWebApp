@@ -7,7 +7,12 @@ body {
     font-family: 'Lato', sans serif;
 }
 
+
 .fa {
+    color: #73D2DE;
+}
+
+.fa-light{
     color: white;
 }
 
@@ -35,6 +40,39 @@ a:hover {
     color: black;
 }
 
+.card{
+    border-radius: 15px;
+    /* border: 2px solid black; */
+    box-shadow: 1px 1px 4px black;
+}
+
+.card:hover {
+    transition: transform 1s;
+    transform: scale3d(1.04, 1.04, 1.04);
+}
+
+.btn{
+    box-shadow: 1px 1px 4px black;
+}
+
+.btn-primary{
+    background: #73D2DE;
+    color: black;
+    border: white;
+}
+
+.btn-primary:hover{
+    background: black;
+}
+
+input{
+    box-shadow: 1px 1px 4px black;
+}
+
+.card-img-top {
+    height: 20vh;
+    /* border: 2px solid black; */
+}
 
 /* Navigation start */
 
@@ -47,12 +85,6 @@ a:hover {
     box-shadow: 1px 1px 4px black;
 }
 
-.nav-img {
-    width: 15vw;
-    position: absolute;
-    left: 75vw;
-    top: -0.5px;
-}
 
 
 /* Set the border color to the desired color */
@@ -61,76 +93,12 @@ a:hover {
     color: black
 }
 
-
 /* navigation End */
 
 .whitespace {
     height: 5vh;
 }
 
-
-/* college page */
-
-
-/* main content start */
-
-.container-fluid-college {
-    width: 95vw;
-}
-
-.col-a {
-    width: 100%;
-    border-radius: 15px;
-    /* border: 2px solid black; */
-}
-
-.col-md-2-left {
-    padding: 20px;
-    padding-left: 30px;
-    border-radius: 15px;
-    /* border: 2px solid black; */
-}
-
-.col-md-10-right {
-    padding: 20px;
-    padding-left: 50px;
-}
-
-
-/* main content end */
-
-.card-college {
-    border: 2px solid white;
-    margin-top: 3vh;
-    padding: 10px;
-    border-radius: 15px;
-    box-shadow: 1px 1px 4px black;
-}
-
-.card-college:hover {
-    transition: transform 1s;
-    transform: scale3d(1.04, 1.04, 1.04);
-}
-
-
-/* aside start */
-
-.col-a-1 {
-    background: white;
-    margin-top: 3vh;
-    padding: 10px;
-    padding-left: 20px;
-    height: auto;
-    position: static;
-    background-color: #73D2DE;
-    box-shadow: 1px 1px 4px black;
-}
-
-
-/* aside end*/
-
-
-/* college page */
 
 
 /* footer start */
@@ -150,91 +118,18 @@ a:hover {
 
 /* home page start */
 
-/* .home-img {
-   
-    width: 80vw;
-    height: 80vh;
-    margin-top: 5vh;
-    margin-bottom: 5vh;
-} */
 
-.container-fluid-home {
-    margin-top: 6vh;
-}
-
-.row-home-1 {
-    margin: auto;
-    /* border: 2px solid black; */
-    justify-content: center;
-}
-
-.card-home {
-    border-radius: 15px;
-    border: 2px solid white;
-    margin: 1vw;
-    box-shadow: 1px 1px 4px black;
-}
-
-.card-home:hover {
-    transition: transform 1s;
-    transform: scale3d(1.04, 1.04, 1.04);
-}
-
-.card-home h5 {
-    text-align: center;
-}
-
-#card-home-down {
+/* #card-home-down {
     margin-top: 10vh;
     height: 22rem;
-}
-
-
+} */
 /* home page end */
 
 
 /* contact Start */
-
-.row-contact-2 {
-    /* border: 2px solid black; */
-    margin-top: 6vh;
-    display: flex;
-    margin-bottom: 5vh;
-}
-
-h1 {
-    text-align: center;
-}
-
 .contact-img {
     width: 60%;
-    height: auto;
-    /* border: 2px solid black; */
     margin: auto;
-    margin-bottom: 5vh;
-}
-
-.card-contact {
-    border-radius: 15px;
-    margin: auto;
-    box-shadow: 1px 1px 4px black;
-    border: 2px solid white;
-}
-
-.card-img-top-contact {
-    height: 20vh;
-}
-
-.fa-envelope {
-    color: #73D2DE;
-}
-
-.fa-telegram {
-    color: #73D2DE;
-}
-
-.fa-facebook {
-    color: #73D2DE;
 }
 
 
@@ -242,42 +137,6 @@ h1 {
 
 
 /* cutoffcard start */
-
-.container-fluid-cutoffcard {
-    margin-top: 6vh;
-    margin-bottom: 6vh;
-}
-
-.row-cutoffcard-1 {
-    margin: auto;
-    /* border: 2px solid black; */
-    justify-content: center;
-}
-
-.card-cutoffcard {
-    border-radius: 15px;
-    border: 2px solid white;
-    margin: 1vw;
-    box-shadow: 1px 1px 4px black;
-}
-
-.card-cutoffcard:hover {
-    transition: transform 1s;
-    transform: scale3d(1.04, 1.04, 1.04);
-}
-
-.card-cutoffcard h5 {
-    text-align: center;
-}
-
-.card-cutoffcard{
-    height: 18rem;
-}
-
-#card-cutoffcard-down {
-    margin-top: 10vh;
-}
-
 
 
 .thead-cutoff {
@@ -297,11 +156,4 @@ table {
     display: table-row;
 }
 
-
 /* cutoff End */
-
-.page-header {
-    text-align: center;
-    background-color: black;
-    color: white;
-}

@@ -1,33 +1,32 @@
+
+
 table td {
-    background-color: #bbebf1;
+    background-color: #dcf0f3;
 }
 
 table th {
-    background-color: black;
+    background-color: #73D2DE;
     color: aliceblue;
     text-align: center;
+    
 }
 
-table td a {
-    background-color: #73D2DE;
-    color: black;
+.btn{
+    box-shadow: 1px 1px 4px black;
 }
 
-/* .btn-cutoff {
-    background-color: #73D2DE;
-}
-
-.btn-cutoff:hover {
-    background-color: #4aa6b3;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-} */
-
-.table-body{
+.btn-primary{
     background: #73D2DE;
+    color: white;
+    border: white;
 }
+
+.btn-primary:hover{
+    background: black;
+}
+
 
 .page-header {
-    text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
     font-weight: bolder;
