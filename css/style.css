@@ -7,12 +7,11 @@ body {
     font-family: 'Lato', sans serif;
 }
 
-
 .fa {
     color: #73D2DE;
 }
 
-.fa-light{
+.fa-light {
     color: white;
 }
 
@@ -40,7 +39,7 @@ a:hover {
     color: black;
 }
 
-.card{
+.card {
     border-radius: 15px;
     /* border: 2px solid black; */
     box-shadow: 1px 1px 4px black;
@@ -51,21 +50,21 @@ a:hover {
     transform: scale3d(1.04, 1.04, 1.04);
 }
 
-.btn{
+.btn {
     box-shadow: 1px 1px 4px black;
 }
 
-.btn-primary{
+.btn-primary {
     background: #73D2DE;
     color: black;
     border: white;
 }
 
-.btn-primary:hover{
+.btn-primary:hover {
     background: black;
 }
 
-input{
+input {
     box-shadow: 1px 1px 4px black;
 }
 
@@ -73,6 +72,7 @@ input{
     height: 20vh;
     /* border: 2px solid black; */
 }
+
 
 /* Navigation start */
 
@@ -86,19 +86,18 @@ input{
 }
 
 
-
 /* Set the border color to the desired color */
 
 .navbar-toggler-icon {
     color: black
 }
 
+
 /* navigation End */
 
 .whitespace {
     height: 5vh;
 }
-
 
 
 /* footer start */
@@ -123,10 +122,13 @@ input{
     margin-top: 10vh;
     height: 22rem;
 } */
+
+
 /* home page end */
 
 
 /* contact Start */
+
 .contact-img {
     width: 60%;
     margin: auto;
@@ -137,7 +139,6 @@ input{
 
 
 /* cutoffcard start */
-
 
 .thead-cutoff {
     background: #73D2DE;
@@ -155,5 +156,6 @@ table {
 .calculator tr {
     display: table-row;
 }
+
 
 /* cutoff End */
