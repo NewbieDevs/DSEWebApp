@@ -86,6 +86,10 @@ input {
 }
 
 
+.navbar-brand{
+    color: black !important;
+}
+
 /* Set the border color to the desired color */
 
 .navbar-toggler-icon {
