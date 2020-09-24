@@ -14,6 +14,30 @@
 </head>
 
 <body>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-analytics.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        var firebaseConfig = {
+            apiKey: "AIzaSyA2ApQ3TISnBCnMU8cZo2LO70Uw4_fjvmg",
+            authDomain: "dsyhelper.firebaseapp.com",
+            databaseURL: "https://dsyhelper.firebaseio.com",
+            projectId: "dsyhelper",
+            storageBucket: "dsyhelper.appspot.com",
+            messagingSenderId: "974966995405",
+            appId: "1:974966995405:web:f7978d81f7b338052cac84",
+            measurementId: "G-30WZET7Z6K"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+    </script>
 
     <!-- Navigation Bar start -->
     <nav class="navbar navbar-expand-lg ">
@@ -23,7 +47,9 @@
 
 
         <!-- Toggle -->
-        <button class="navbar-toggler navbar-light" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler navbar-light" type="button" data-toggle="collapse"
+            data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02"
+            aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
@@ -60,12 +86,16 @@
                 <img class="card-img-top" src="../assets/images/undraw_messages1_9ah2.svg" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title text-center">Contact us</h5>
-                    <p class="card-text">Reach to us if you have any problems while hanging out on our platform.You can contact us by the following ways.</p>
+                    <p class="card-text">Reach to us if you have any problems while hanging out on our
+                        platform.You can contact us by the following ways.</p>
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp Email: <a href="#">dsy.com</a> </li>
-                    <li class="list-group-item"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp Telegram: <a href="#">dsy</a> </li>
-                    <li class="list-group-item"><i class="fa fa-facebook" aria-hidden="true"></i>&nbsp&nbsp&nbsp Facebook: <a href="#">dsy</a></li>
+                    <li class="list-group-item"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp Email:
+                        <a href="#">dsy.com</a> </li>
+                    <li class="list-group-item"><i class="fa fa-telegram" aria-hidden="true"></i>&nbsp Telegram:
+                        <a href="#">dsy</a> </li>
+                    <li class="list-group-item"><i class="fa fa-facebook" aria-hidden="true"></i>&nbsp&nbsp&nbsp
+                        Facebook: <a href="#">dsy</a></li>
                 </ul>
             </div>
         </div>
@@ -91,7 +121,8 @@
 
         <!-- Form -->
         <!-- <form class="form-inline ">
-          <input class="form-control form-control-sm mr-3 w-75 " type="text " placeholder="Search "
+          <input class="form-control form-control-sm mr-3 w-75 " type="text
+        " placeholder="Search "
             aria-label="Search ">
           <i class="fa fa-search " aria-hidden="true "></i>
         </form> -->
@@ -104,7 +135,8 @@
       <div class="col-md-5 mb-4 ">
 
         <form class="input-group ">
-          <input type="text " class="form-control form-control-sm " placeholder="Your email "
+          <input type="text " class="form-control form-control-sm
+        " placeholder="Your email "
             aria-label="Your email " aria-describedby="basic-addon2 ">
           <div class="input-group-append ">
             <button class="btn btn-sm btn-outline-light my-0 mx-2 " type="button ">Sign up</button>
@@ -140,16 +172,20 @@
 
         <ul class="list-unstyled ">
           <li>
-            <a class="a-light " href="../index.html"><i class="fa fa-light fa-home " aria-hidden="true "></i> Home</a>
+            <a class="a-light " href="../index.html "><i class="fa fa-light fa-home
+        " aria-hidden="true "></i> Home</a>
           </li>
           <li>
-            <a class="a-light " href="source/contact.html"><i class="fa fa-light fa-phone" aria-hidden="true "></i> Contact us</a>
+            <a class="a-light " href="source/contact.html "><i class="fa fa-light
+        fa-phone " aria-hidden="true "></i> Contact us</a>
           </li>
           <li>
-            <a class="a-light " href="source/college.html"><i class="fa fa-light fa-graduation-cap" aria-hidden="true "></i> Colleges</a>
+            <a class="a-light " href="source/college.html "><i class="fa fa-light
+        fa-graduation-cap " aria-hidden="true "></i> Colleges</a>
           </li>
           <li>
-            <a class="a-light " href="source/cutoffcard.html"><i class="fa fa-light fa-file-pdf-o " aria-hidden="true "></i> Cut-Off</a>
+            <a class="a-light " href="source/cutoffcard.html "><i class="fa fa-light
+        fa-file-pdf-o " aria-hidden="true "></i> Cut-Off</a>
           </li>
         </ul>
 
@@ -164,17 +200,21 @@
 
         <ul class="list-unstyled ">
           <li>
-            <a class="a-light " href="#! "><i class="fa fa-light fa-github-square " aria-hidden="true "></i>
+            <a class="a-light " href="#! "><i class="fa fa-light fa-github-square
+        " aria-hidden="true "></i>
               Github</a>
           </li>
           <li>
-            <a class="a-light " href="#! "><i class="fa fa-light fa-facebook-square " aria-hidden="true "></i> Facebook</a>
+            <a class="a-light " href="#! "><i class="fa fa-light fa-facebook-square
+        " aria-hidden="true "></i> Facebook</a>
           </li>
           <li>
-            <a class="a-light " href="#! "><i class="fa fa-light fa-linkedin-square " aria-hidden="true "></i> Linkedin</a>
+            <a class="a-light " href="#! "><i class="fa fa-light fa-linkedin-square
+        " aria-hidden="true "></i> Linkedin</a>
           </li>
           <li>
-            <a class="a-light " href="#! "><i class="fa fa-light fa-twitter-square " aria-hidden="true "></i>
+            <a class="a-light " href="#! "><i class="fa fa-light fa-twitter-square
+        " aria-hidden="true "></i>
               Twitter</a>
           </li>
         </ul>

@@ -15,7 +15,30 @@
 </head>
 
 <body>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-app.js"></script>
 
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-analytics.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        var firebaseConfig = {
+            apiKey: "AIzaSyA2ApQ3TISnBCnMU8cZo2LO70Uw4_fjvmg",
+            authDomain: "dsyhelper.firebaseapp.com",
+            databaseURL: "https://dsyhelper.firebaseio.com",
+            projectId: "dsyhelper",
+            storageBucket: "dsyhelper.appspot.com",
+            messagingSenderId: "974966995405",
+            appId: "1:974966995405:web:f7978d81f7b338052cac84",
+            measurementId: "G-30WZET7Z6K"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+    </script>
     <!-- Navigation Bar start -->
     <nav class="navbar navbar-expand-lg mb-5">
 
@@ -24,7 +47,9 @@
 
 
         <!-- Toggle -->
-        <button class="navbar-light navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-light navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02"
+            aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon "></span>
     </button>
 
@@ -58,7 +83,8 @@
         <div class="row mb-3 " style="justify-content: center;">
             <a href="Amravati.html">
                 <div class=" card mx-1 mb-2" style="width: 11rem; ">
-                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg " alt="Card image cap ">
+                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg "
+                        alt="Card image cap ">
                     <div class="card-body ">
                         <h5 class="card-title text-center">Amravati</h5>
                         <p class="card-text text-center">Cut-Off 2019.</p>
@@ -68,7 +94,8 @@
             </a>
             <a href="Aurangabad.html">
                 <div class="card mx-1 mb-5 mt-5" style="width: 11rem; ">
-                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg " alt="Card image cap ">
+                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg "
+                        alt="Card image cap ">
                     <div class="card-body ">
                         <h5 class="card-title text-center">Aurangabad</h5>
                         <p class="card-text text-center">Cut-Off 2019.</p>
@@ -78,7 +105,8 @@
             </a>
             <a href="Mumbai.html">
                 <div class="card mx-1 mb-2" style="width: 11rem; ">
-                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg " alt="Card image cap ">
+                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg "
+                        alt="Card image cap ">
                     <div class="card-body ">
                         <h5 class="card-title text-center">Mumbai</h5>
                         <p class="card-text text-center">Cut-Off 2019..</p>
@@ -88,7 +116,8 @@
             </a>
             <a href="Nagpur.html">
                 <div class="card mx-1 mb-5 mt-5" style="width: 11rem; ">
-                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg " alt="Card image cap ">
+                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg "
+                        alt="Card image cap ">
                     <div class="card-body ">
                         <h5 class="card-title text-center">Nagpur</h5>
                         <p class="card-text text-center">Cut-Off 2019.</p>
@@ -99,7 +128,8 @@
             <a href="Nashik.html">
 
                 <div class="card mx-1 mb-2" style="width: 11rem; ">
-                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg " alt="Card image cap ">
+                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg "
+                        alt="Card image cap ">
                     <div class="card-body ">
                         <h5 class="card-title text-center ">Nashik</h5>
                         <p class="card-text text-center">Cut-Off 2019.</p>
@@ -109,7 +139,8 @@
             </a>
             <a href="Pune.html">
                 <div class="card mx-1 mb-5 mt-5" style="width: 11rem; ">
-                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg " alt="Card image cap ">
+                    <img class="card-img-top card-img-top-contact my-3 " src="../assets/images/undraw_map_1r69.svg "
+                        alt="Card image cap ">
                     <div class="card-body ">
                         <h5 class="card-title text-center">Pune</h5>
                         <p class="card-text text-center">Cut-Off 2019.</p>
@@ -152,7 +183,8 @@
                 <div class="col-md-5 mb-4 ">
 
                     <form class="input-group ">
-                        <input type="text " class="form-control form-control-sm " placeholder="Your email " aria-label="Your email " aria-describedby="basic-addon2 ">
+                        <input type="text " class="form-control form-control-sm " placeholder="Your email "
+                            aria-label="Your email " aria-describedby="basic-addon2 ">
                         <div class="input-group-append ">
                             <button class="btn btn-sm btn-outline-light my-0 mx-2 " type="button ">Sign up</button>
                         </div>
@@ -174,7 +206,9 @@
                     <a class="a-light " href="# ">
                         <h5 class="text-uppercase ">DIRECTSY</h5>
                     </a>
-                    <p>DIRECTSY IS A PLATFORM FOR POLYTECHNIC STUDENTS WHO WANT TO SEARCH FOR COLLEGES TO TAKE ADMISSION IN DIRECT SECOND YEAR ENGINEERING COLLEGE.</p>
+                    <p>DIRECTSY IS A PLATFORM FOR POLYTECHNIC STUDENTS WHO WANT TO
+                        SEARCH FOR COLLEGES TO TAKE ADMISSION IN DIRECT SECOND
+                        YEAR ENGINEERING COLLEGE.</p>
 
                 </div>
                 <!-- Grid column -->
@@ -189,18 +223,18 @@
 
                     <ul class="list-unstyled ">
                         <li>
-                          <a class="a-light " href="../index.html "><i class="fa fa-light fa-home " aria-hidden="true "></i> Home</a>
+                            <a class="a-light " href="../index.html "><i class="fa fa-light fa-home " aria-hidden="true "></i> Home</a>
                         </li>
                         <li>
-                          <a class="a-light " href="source/contact.html "><i class="fa fa-light fa-phone" aria-hidden="true "></i> Contact us</a>
+                            <a class="a-light " href="source/contact.html "><i class="fa fa-light fa-phone" aria-hidden="true "></i> Contact us</a>
                         </li>
                         <li>
-                          <a class="a-light " href="source/college.html "><i class="fa fa-light fa-graduation-cap" aria-hidden="true "></i> Colleges</a>
+                            <a class="a-light " href="source/college.html "><i class="fa fa-light fa-graduation-cap" aria-hidden="true "></i> Colleges</a>
                         </li>
                         <li>
-                          <a class="a-light " href="source/cutoffcard.html "><i class="fa fa-light fa-file-pdf-o " aria-hidden="true "></i> Cut-Off</a>
+                            <a class="a-light " href="source/cutoffcard.html "><i class="fa fa-light fa-file-pdf-o " aria-hidden="true "></i> Cut-Off</a>
                         </li>
-                      </ul>
+                    </ul>
 
                 </div>
                 <!-- Grid column -->
