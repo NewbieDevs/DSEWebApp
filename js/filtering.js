@@ -1,4 +1,4 @@
-filterSelection("all")
+filterSelection("computer")
 
 function filterSelection(c) {
     //Intializing variables
