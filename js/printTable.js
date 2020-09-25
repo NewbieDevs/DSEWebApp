@@ -29,7 +29,7 @@ function loadTable(fname, regionName) {
                 // console.log(tr + td1 + td2 + td3 + td4 + td5 + td6)
 
             }
-            console.log("Work Done..." + JSON.stringify(table1obj))
+            //console.log("Work Done..." + JSON.stringify(table1obj))
 
         })
         .done(function() {
