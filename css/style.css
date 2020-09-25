@@ -32,7 +32,8 @@ a:hover {
 }
 
 .a-dark {
-    color: #73D2DE;
+    color: black;
+    font-family: 'Poppins', sans-serif;
 }
 
 .a-dark:hover {
