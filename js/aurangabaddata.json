@@ -1,4 +1,4 @@
-[   {
+[{
     "srno": 1,
     "InstiCode": 2008,
     "InstiName": "Government College of Engineering, Aurangabad"
@@ -30,7 +30,7 @@
     "srno": 8,
     "InstiCode": 2116,
     "InstiName": "Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded"
-},  {
+}, {
     "srno": 9,
     "InstiCode": 2126,
     "InstiName": "Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad"
@@ -38,7 +38,7 @@
     "srno": 10,
     "InstiCode": 2127,
     "InstiName": "Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded."
-},  {
+}, {
     "srno": 11,
     "InstiCode": 2129,
     "InstiName": "M.S. Bidve Engineering College, Latur"
@@ -82,7 +82,7 @@
     "srno": 21,
     "InstiCode": 2141,
     "InstiName": "Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad"
-},  {
+}, {
     "srno": 22,
     "InstiCode": 2146,
     "InstiName": "Adarsh Shikshan Prasarak Mandal's K. T. Patil College of Engineering and Technology, Osmanabad"
@@ -102,7 +102,7 @@
     "srno": 26,
     "InstiCode": 2255,
     "InstiName": "Balaghat Engineering College,Ruddha, Ahmedpur"
-},  {
+}, {
     "srno": 27,
     "InstiCode": 2516,
     "InstiName": "International Centre Of Excellence In Engineering and Management (ICEEM)"
@@ -114,4 +114,4 @@
     "srno": 29,
     "InstiCode": 2533,
     "InstiName": "CSMSS Chh. Shahu College of Engineering, Aurangabad"
-},]
+}]
