@@ -1,1686 +1,595 @@
 [{
-        "srno": 4,
+        "srno": 1,
         "InstiCode": 6004,
         "InstiName": "Government College of Engineering & Research, Avasari Khurd"
     },
     {
-        "srno": 5,
+        "srno": 2,
         "InstiCode": 6005,
         "InstiName": "Government College of Engineering, Karad"
     },
     {
-        "srno": 6,
+        "srno": 3,
         "InstiCode": 6006,
         "InstiName": "College of Engineering, Pune"
     },
     {
-        "srno": 7,
+        "srno": 4,
         "InstiCode": 6007,
         "InstiName": "Walchand College of Engineering, Sangli"
     },
     {
-        "srno": 9,
-        "InstiCode": 6009,
-        "InstiName": "B.K.P.S. College of Architecture, Pune"
-    },
-    {
-        "srno": 10,
-        "InstiCode": 6010,
-        "InstiName": "Government Polytechnic, Kolhapur"
-    },
-    {
-        "srno": 11,
-        "InstiCode": 6011,
-        "InstiName": "Government Polytechnic, Awasari (khurd)"
-    },
-    {
-        "srno": 12,
-        "InstiCode": 6013,
-        "InstiName": "Government Polytechnic, Pune"
-    },
-    {
-        "srno": 13,
-        "InstiCode": 6014,
-        "InstiName": "Government Residence Women Polytechnic, Tasgaon"
-    },
-    {
-        "srno": 14,
-        "InstiCode": 6015,
-        "InstiName": "Government Polytechnic, Miraj"
-    },
-    {
-        "srno": 15,
-        "InstiCode": 6016,
-        "InstiName": "Government Polytechnic, Karad"
-    },
-    {
-        "srno": 16,
-        "InstiCode": 6017,
-        "InstiName": "Government Polytechnic, Solapur"
-    },
-    {
-        "srno": 17,
-        "InstiCode": 6018,
-        "InstiName": "Institute of Civil and Rural Engineering(aided), Gargoti, Kolhapur"
-    },
-    {
-        "srno": 18,
-        "InstiCode": 6019,
-        "InstiName": "Maharashtra Institute of Printing Technology(Aided), Pune"
-    },
-    {
-        "srno": 19,
-        "InstiCode": 6020,
-        "InstiName": "Cusrow Wadia Institute of Technology( Aided ), Pune"
-    },
-    {
-        "srno": 25,
+        "srno": 8,
         "InstiCode": 6028,
         "InstiName": "Department of Technology, Shivaji University, Kolhapur"
     },
+   
     {
-        "srno": 26,
-        "InstiCode": 6029,
-        "InstiName": "Yashwantrao Chavan School of Rural Development, Kolhapur"
-    },
-    {
-        "srno": 27,
-        "InstiCode": 6031,
-        "InstiName": "Punyashlok Ahilyadevi Holkar Solapur University, Solapur"
-    },
-    {
-        "srno": 29,
-        "InstiCode": 6033,
-        "InstiName": "Department of Computer Science, Savitribai Phule Pune University, Pune"
-    },
-    {
-        "srno": 30,
-        "InstiCode": 6034,
-        "InstiName": "Department of Computer Science, Solapur University, Solapur(SHIFTED TO 6031 )"
-    },
-    {
-        "srno": 31,
-        "InstiCode": 6035,
-        "InstiName": "Savitribai Phule Pune University Department , Pune"
-    },
-    {
-        "srno": 38,
-        "InstiCode": 6108,
-        "InstiName": "Marathwada Mitra Mandal's Institute of Mangement Education Research & Training, Pune"
-    },
-    {
-        "srno": 41,
-        "InstiCode": 6111,
-        "InstiName": "Progressive Education Society's Modern Institute of Computer Application, Nigdi, Pune"
-    },
-    {
-        "srno": 52,
+        "srno": 14,
         "InstiCode": 6122,
         "InstiName": "TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune"
     },
     {
-        "srno": 60,
-        "InstiCode": 6130,
-        "InstiName": "Sinhgad Institute of Business Administration and Computer Application, Lonavala"
-    },
-    {
-        "srno": 66,
-        "InstiCode": 6136,
-        "InstiName": "Sinhgad Technical Education Society, Sinhgad Business School, Erandwane, Pune"
-    },
-    {
-        "srno": 67,
+        "srno": 15,
         "InstiCode": 6137,
         "InstiName": "Vidya Pratishthan Institute of Information Technology, Baramati, Pune"
     },
     {
-        "srno": 68,
+        "srno": 16,
         "InstiCode": 6138,
         "InstiName": "Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune"
     },
     {
-        "srno": 69,
+        "srno": 17,
         "InstiCode": 6139,
         "InstiName": "Progressive Education Society's Modern College of Engineering, Pune"
     },
     {
-        "srno": 71,
+        "srno": 18,
         "InstiCode": 6141,
         "InstiName": "Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune"
     },
     {
-        "srno": 74,
+        "srno": 19,
         "InstiCode": 6144,
         "InstiName": "Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune"
     },
     {
-        "srno": 75,
+        "srno": 20,
         "InstiCode": 6145,
         "InstiName": "JSPM'S Jaywantrao Sawant College of Engineering,Pune"
     },
     {
-        "srno": 76,
+        "srno": 21,
         "InstiCode": 6146,
         "InstiName": "MIT Academy of Engineering,Alandi, Pune"
     },
     {
-        "srno": 78,
-        "InstiCode": 6148,
-        "InstiName": "MAEER's M.I.T. College of Engineering , Kothrud, Pune"
-    },
-    {
-        "srno": 79,
+        "srno": 23,
         "InstiCode": 6149,
         "InstiName": "Choudhary Attar Singh Yadav Memorial Trust,Siddhant College of Engineering, Maval"
     },
     {
-        "srno": 81,
-        "InstiCode": 6151,
-        "InstiName": "Maharashtra Institute of Technology, Kothrud, Pune"
-    },
-    {
-        "srno": 82,
-        "InstiCode": 6152,
-        "InstiName": "Zeal Education Society's Zeal Institute of Business Administration, Computer Application and Research, Pune"
-    },
-    {
-        "srno": 85,
+        "srno": 25,
         "InstiCode": 6156,
         "InstiName": "Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune"
     },
     {
-        "srno": 87,
+        "srno": 26,
         "InstiCode": 6160,
         "InstiName": "JSPM's Imperial College of Engineering and Research, Wagholi, Pune"
     },
     {
-        "srno": 88,
-        "InstiCode": 6161,
-        "InstiName": "JSPM's Jayawant Institute of Computer Application, Tathawade, Pune"
-    },
-    {
-        "srno": 92,
-        "InstiCode": 6166,
-        "InstiName": "Audyogik Shikshan Mandal's Institute of Professional Studies, Pimpri Waghere, Pune"
-    },
-    {
-        "srno": 99,
+        "srno": 27,
         "InstiCode": 6175,
         "InstiName": "Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune"
     },
     {
-        "srno": 100,
+        "srno": 28,
         "InstiCode": 6176,
         "InstiName": "G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune"
     },
     {
-        "srno": 101,
+        "srno": 29,
         "InstiCode": 6177,
         "InstiName": "Sinhgad College of Engineering, Vadgaon (BK), Pune"
     },
     {
-        "srno": 102,
+        "srno": 30,
         "InstiCode": 6178,
         "InstiName": "Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune"
     },
     {
-        "srno": 103,
+        "srno": 31,
         "InstiCode": 6179,
         "InstiName": "Indira College of Engineering & Management, Pune"
     },
     {
-        "srno": 104,
-        "InstiCode": 6180,
-        "InstiName": "Jayawant Shikshan Prasarak Mandal, ENIAC Institute of Computer Application, Wagholi, Pune"
-    },
-    {
-        "srno": 105,
-        "InstiCode": 6181,
-        "InstiName": "Jayawant Shikshan Prasarak Mandal, Abacus Institute of Computer Application, Hadapsar, Pune"
-    },
-    {
-        "srno": 106,
+        "srno": 32,
         "InstiCode": 6182,
         "InstiName": "Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)"
     },
     {
-        "srno": 107,
+        "srno": 33,
         "InstiCode": 6183,
         "InstiName": "Al-Ameen Educational and Medical Foundation, College of Engineering, Koregaon, Bhima"
     },
     {
-        "srno": 108,
+        "srno": 34,
         "InstiCode": 6184,
         "InstiName": "K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli"
     },
     {
-        "srno": 109,
+        "srno": 35,
         "InstiCode": 6185,
         "InstiName": "Sinhagad Institute of Technology, Lonavala"
     },
     {
-        "srno": 111,
+        "srno": 36,
         "InstiCode": 6187,
         "InstiName": "Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune"
     },
     {
-        "srno": 118,
-        "InstiCode": 6197,
-        "InstiName": "IAEER-PIBM Pune"
-    },
-    {
-        "srno": 121,
-        "InstiCode": 6201,
-        "InstiName": "Dr. D. Y. Patil School Of MCA, Lohegaon,Pune"
-    },
-    {
-        "srno": 122,
+        "srno": 37,
         "InstiCode": 6203,
         "InstiName": "Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune"
     },
     {
-        "srno": 124,
-        "InstiCode": 6205,
-        "InstiName": "Sinhgad Institute of Business Administration and Computer Application, Lonavala"
-    },
-    {
-        "srno": 125,
+        "srno": 38,
         "InstiCode": 6206,
         "InstiName": "Pune District Education Association's College of Engineering, Pune"
     },
     {
-        "srno": 126,
+        "srno": 39,
         "InstiCode": 6207,
         "InstiName": "Dr. D. Y. Patil Vidya Pratishthan Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune"
     },
     {
-        "srno": 133,
+        "srno": 40,
         "InstiCode": 6214,
         "InstiName": "K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli"
     },
     {
-        "srno": 134,
-        "InstiCode": 6215,
-        "InstiName": "Sou. Sushila Danchand Ghodawat Cha.Trust's Sanjay Ghodavat Group of Institution (Integrated Campus), Atigre, Kolhapur"
-    },
-    {
-        "srno": 136,
-        "InstiCode": 6217,
-        "InstiName": "Shri. Balasaheb Mane Prasarak Mandals, Ashokrao Mane Group of Institutions, Kolhapur"
-    },
-    {
-        "srno": 138,
+        "srno": 41,
         "InstiCode": 6219,
         "InstiName": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur"
     },
     {
-        "srno": 139,
+        "srno": 42,
         "InstiCode": 6220,
         "InstiName": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur"
     },
     {
-        "srno": 140,
+        "srno": 43,
         "InstiCode": 6222,
         "InstiName": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji."
     },
     {
-        "srno": 141,
+        "srno": 44,
         "InstiCode": 6223,
         "InstiName": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur"
     },
     {
-        "srno": 143,
-        "InstiCode": 6225,
-        "InstiName": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji."
-    },
-    {
-        "srno": 144,
-        "InstiCode": 6228,
-        "InstiName": "Dr. D. Y. Patil Pratishthan's D.Y.Patil Institute of Master of Computer Applications and Management, Akurdi, Pune"
-    },
-    {
-        "srno": 148,
-        "InstiCode": 6236,
-        "InstiName": "Sinhgad Technical Education Society's , Sinhgad Institute of Business Administration & Research, Kondhawa-Saswad Road, Pune"
-    },
-    {
-        "srno": 149,
-        "InstiCode": 6237,
-        "InstiName": "Deccan Education Society's Technical Institute ,Pune"
-    },
-    {
-        "srno": 151,
-        "InstiCode": 6240,
-        "InstiName": "Choudhary Attar Singh Yadav Memorial Education Trust's Siddhant Institute Of Computer Application, Sudambare"
-    },
-    {
-        "srno": 152,
-        "InstiCode": 6245,
-        "InstiName": "Dr. D. Y. Patil School Of Architecture, Lohegaon, Pune"
-    },
-    {
-        "srno": 154,
-        "InstiCode": 6249,
-        "InstiName": "Audyogik Shikshan Mandal's Institute of International Business & Research, Pune"
-    },
-    {
-        "srno": 155,
+        "srno": 47,
         "InstiCode": 6250,
         "InstiName": "D.Y. Patil College of Engineering and Technology, Kolhapur"
     },
     {
-        "srno": 160,
-        "InstiCode": 6259,
-        "InstiName": "Gourishankar Education & Charitable Trust, Gourishankar Polytechnic,Limb, Satara"
-    },
-    {
-        "srno": 162,
-        "InstiCode": 6261,
-        "InstiName": "Maharshi Karve Stree Shikshan.Samstha's ,Dr. Bhanuben Nanavati College of Architecture for Women, Karvenagar, Pune"
-    },
-    {
-        "srno": 163,
-        "InstiCode": 6263,
-        "InstiName": "Sinhgad College of Architecture, Vadgaon (BK), Pune"
-    },
-    {
-        "srno": 164,
-        "InstiCode": 6264,
-        "InstiName": "Shree Prince Shivaji Maratha Boarding's College of Architecture, Kolhapur"
-    },
-    {
-        "srno": 165,
+        "srno": 48,
         "InstiCode": 6265,
         "InstiName": "Walchand Institute of Technology, Solapur"
     },
     {
-        "srno": 166,
-        "InstiCode": 6266,
-        "InstiName": "Shetkari Shikshan Mandal's Pad. Vasnatraodada Patil Institute of Technology, Budhgaon,(Diploma) Sangli"
-    },
-    {
-        "srno": 167,
+        "srno": 50,
         "InstiCode": 6267,
         "InstiName": "Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur"
     },
     {
-        "srno": 168,
+        "srno": 51,
         "InstiCode": 6268,
         "InstiName": "Tatyasaheb Kore Institute of Engineering and Technology, Warananagar"
     },
     {
-        "srno": 169,
+        "srno": 52,
         "InstiCode": 6269,
         "InstiName": "Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli"
     },
     {
-        "srno": 170,
+        "srno": 53,
         "InstiCode": 6270,
         "InstiName": "Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara"
     },
     {
-        "srno": 171,
+        "srno": 54,
         "InstiCode": 6271,
         "InstiName": "Pune Institute of Computer Technology, Dhankavdi, Pune"
     },
     {
-        "srno": 172,
+        "srno": 55,
         "InstiCode": 6272,
         "InstiName": "Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune"
     },
     {
-        "srno": 173,
+        "srno": 56,
         "InstiCode": 6273,
         "InstiName": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune"
     },
     {
-        "srno": 174,
+        "srno": 57,
         "InstiCode": 6274,
         "InstiName": "Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune"
     },
     {
-        "srno": 175,
+        "srno": 58,
         "InstiCode": 6275,
         "InstiName": "Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati"
     },
     {
-        "srno": 176,
+        "srno": 59,
         "InstiCode": 6276,
         "InstiName": "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune"
     },
     {
-        "srno": 177,
+        "srno": 60,
         "InstiCode": 6277,
         "InstiName": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur"
     },
     {
-        "srno": 178,
+        "srno": 61,
         "InstiCode": 6278,
         "InstiName": "All India Shri Shivaji Memorial Society's College of Engineering, Pune"
     },
     {
-        "srno": 179,
+        "srno": 62,
         "InstiCode": 6281,
         "InstiName": "Modern Education Society's College of Engineering, Pune"
     },
     {
-        "srno": 180,
+        "srno": 63,
         "InstiCode": 6282,
         "InstiName": "All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune"
     },
     {
-        "srno": 181,
+        "srno": 64,
         "InstiCode": 6283,
         "InstiName": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli"
     },
     {
-        "srno": 182,
+        "srno": 65,
         "InstiCode": 6284,
         "InstiName": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune"
     },
     {
-        "srno": 183,
+        "srno": 66,
         "InstiCode": 6285,
         "InstiName": "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune"
     },
     {
-        "srno": 184,
+        "srno": 67,
         "InstiCode": 6288,
         "InstiName": "Bharati Vidyapeeth's College of Engineering, Kolhapur"
     },
     {
-        "srno": 185,
+        "srno": 68,
         "InstiCode": 6289,
         "InstiName": "B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune"
     },
     {
-        "srno": 186,
+        "srno": 69,
         "InstiCode": 6293,
         "InstiName": "Kai Amdar Bramhadevdada Mane Shikshan & Samajik Prathistan's Bramhadevdada Mane Institute of Technology, Solapur"
     },
     {
-        "srno": 187,
+        "srno": 70,
         "InstiCode": 6298,
         "InstiName": "Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune"
     },
     {
-        "srno": 188,
-        "InstiCode": 6302,
-        "InstiName": "Gourishankar Educational & Charitable Trust's Satara College of Engineering & Management, Limb, Satara"
-    },
-    {
-        "srno": 189,
+        "srno": 72,
         "InstiCode": 6303,
         "InstiName": "Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad"
     },
     {
-        "srno": 190,
+        "srno": 73,
         "InstiCode": 6304,
         "InstiName": "Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli"
     },
     {
-        "srno": 191,
+        "srno": 74,
         "InstiCode": 6305,
         "InstiName": "S.D.N.C.R.E.S'S.Late Narayandas Bhawandas Chhabada Institute of Engineering & Technology, Satara"
     },
     {
-        "srno": 192,
+        "srno": 75,
         "InstiCode": 6307,
         "InstiName": "Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli"
     },
     {
-        "srno": 193,
+        "srno": 76,
         "InstiCode": 6308,
         "InstiName": "Shanti Education Society, A.G. Patil Institute of Technology, Soregaon, Solapur(North)"
     },
     {
-        "srno": 194,
+        "srno": 77,
         "InstiCode": 6310,
         "InstiName": "Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune"
     },
     {
-        "srno": 195,
+        "srno": 78,
         "InstiCode": 6311,
         "InstiName": "Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi"
     },
     {
-        "srno": 196,
-        "InstiCode": 6312,
-        "InstiName": "Abhinav Education society College of Engineering and Technology (Diploma), Wadwadi, Tal. Khandala"
-    },
-    {
-        "srno": 197,
-        "InstiCode": 6313,
-        "InstiName": "Jaywant College of Engineering & Polytechnic , Kille Macchindragad Tal. Walva District- Sangali"
-    },
-    {
-        "srno": 198,
+        "srno": 79,
         "InstiCode": 6315,
         "InstiName": "Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala"
     },
     {
-        "srno": 199,
+        "srno": 80,
         "InstiCode": 6317,
         "InstiName": "Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)"
     },
     {
-        "srno": 200,
+        "srno": 81,
         "InstiCode": 6318,
         "InstiName": "Abhinav Education Society's College of Engineering and Technology (Degree), Wadwadi"
     },
     {
-        "srno": 201,
+        "srno": 82,
         "InstiCode": 6319,
         "InstiName": "Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali, Tal. Indapur"
     },
     {
-        "srno": 202,
+        "srno": 83,
         "InstiCode": 6320,
         "InstiName": "K.J.'s Educational Institute's K.J.College of Engineering & Management Research, Pisoli"
     },
     {
-        "srno": 203,
+        "srno": 84,
         "InstiCode": 6321,
         "InstiName": "Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur"
     },
     {
-        "srno": 204,
+        "srno": 85,
         "InstiCode": 6322,
         "InstiName": "Shree Gajanan Maharaj Shikshan Prasarak Manda'l Sharadchandra Pawar College of Engineering, Dumbarwadi"
     },
     {
-        "srno": 205,
+        "srno": 86,
         "InstiCode": 6323,
         "InstiName": "D. Y. Patil College of Engineering, Ambi, Talegaon, Maval"
     },
     {
-        "srno": 206,
+        "srno": 87,
         "InstiCode": 6324,
         "InstiName": "Rajgad Dnyanpeeth's Technical Campus,Dhangwadi, Bhor"
     },
     {
-        "srno": 207,
+        "srno": 88,
         "InstiCode": 6325,
         "InstiName": "Alard Charitable Trust's Alard College of Engineering and Management, Pune"
     },
     {
-        "srno": 208,
+        "srno": 89,
         "InstiCode": 6326,
         "InstiName": "Shri Pandurang Pratishtan, Karmayogi Engineering College, Shelve, Pandharpur"
     },
     {
-        "srno": 215,
-        "InstiCode": 6361,
-        "InstiName": "Vishal Institute of Pharmaceutical Education & Research, Ale, (Alephata), Dist. Pune"
-    },
-    {
-        "srno": 220,
-        "InstiCode": 6366,
-        "InstiName": "Saibalaji Education Society, International Institute of Management & Human Resource Development(W), Nere Marunje, Pune"
-    },
-    {
-        "srno": 222,
-        "InstiCode": 6368,
-        "InstiName": "Shri Chatrapati Sambhaji Shikshan Sanstha's Sitabai Thite College of Pharmarcy, Shirur, (Ghodnadi). Pune"
-    },
-    {
-        "srno": 227,
-        "InstiCode": 6373,
-        "InstiName": "Shri Chatrapati Sambhaji Shikshan Sanstha's Sitabai Thite College of Pharmarcy, Shirur, (Ghodnadi). Pune"
-    },
-    {
-        "srno": 229,
-        "InstiCode": 6375,
-        "InstiName": "Dr. D.Y. Patil Institute of Pharmaceutical Science & Research, Pimpri, Pune"
-    },
-    {
-        "srno": 232,
-        "InstiCode": 6378,
-        "InstiName": "Sinhgad Technical Education Society's Sinhgad Institute of Pharmaceutical Sciences , Lonavala"
-    },
-    {
-        "srno": 239,
-        "InstiCode": 6385,
-        "InstiName": "Poona District Education Association, Shankarrao Ursal College of Pharmaceutical Sciences & Research Centre, Kharadi, Tal: Haveli"
-    },
-    {
-        "srno": 244,
-        "InstiCode": 6391,
-        "InstiName": "Gaurishankar Educational and Charitable Trust's Gourishankar Institute of Pharmaceutical & Education Research, Limb, Satara"
-    },
-    {
-        "srno": 255,
-        "InstiCode": 6402,
-        "InstiName": "Shree Prince Shivaji Maratha Boarding House's New Polytechnic, Kolhapur"
-    },
-    {
-        "srno": 256,
-        "InstiCode": 6403,
-        "InstiName": "Latthe Education Society's Polytechnic, Sangli"
-    },
-    {
-        "srno": 257,
-        "InstiCode": 6404,
-        "InstiName": "Ekalavya Shikshan Sanstha's Polytechnic,pune"
-    },
-    {
-        "srno": 258,
-        "InstiCode": 6405,
-        "InstiName": "Shivnagar Vidya Prasarak Mandal's Institute of Tech. & Engg., Malegaon(Bk.)"
-    },
-    {
-        "srno": 259,
-        "InstiCode": 6406,
-        "InstiName": "Karmaveer Bhaurao Patil Polytechnic,Satara"
-    },
-    {
-        "srno": 260,
-        "InstiCode": 6407,
-        "InstiName": "Satara Education Society's Satara Polytechnic, Satara"
-    },
-    {
-        "srno": 261,
-        "InstiCode": 6408,
-        "InstiName": "Bharti Vidyaapeeth's Jawaharlal Nehru Institute of Technology, Pune"
-    },
-    {
-        "srno": 262,
-        "InstiCode": 6409,
-        "InstiName": "Solapur Education Society's Polytechnic, Solapur"
-    },
-    {
-        "srno": 263,
-        "InstiCode": 6410,
-        "InstiName": "Dr. D. Y. Patil Pratishthan's, Yashwantrao Bhaurao Patil Polytechnic, Pune"
-    },
-    {
-        "srno": 264,
-        "InstiCode": 6411,
-        "InstiName": "Dr. J. J. Magdum Trust, Dr. J.J.Magdum Polytechnic, Jaysingpur, Kolhapur"
-    },
-    {
-        "srno": 265,
-        "InstiCode": 6412,
-        "InstiName": "Shri Shivaji Shikshan Prasarak Mandal's Institute of Polytechnic, Barshi, Solapur"
-    },
-    {
-        "srno": 266,
-        "InstiCode": 6413,
-        "InstiName": "Pimpri Chinchwad Education Trust's Pimpri Chinchwad Polytechnic,Pune"
-    },
-    {
-        "srno": 267,
-        "InstiCode": 6414,
-        "InstiName": "Sinhgad Tech Education Society's Sou. Venutai Chavan Polytechnic, Pune"
-    },
-    {
-        "srno": 268,
-        "InstiCode": 6415,
-        "InstiName": "All India Shri Shivaji Memorial Society's Polytechnic, Pune,"
-    },
-    {
-        "srno": 269,
-        "InstiCode": 6416,
-        "InstiName": "Dr. D. Y. Patil Pratishthan's, Padmashree Dr. D.Y.Patil Polytechnic, Nigdi"
-    },
-    {
-        "srno": 270,
-        "InstiCode": 6417,
-        "InstiName": "Poona District Education Association's, Institute of Technology,Hadpsar,Pune"
-    },
-    {
-        "srno": 271,
-        "InstiCode": 6418,
-        "InstiName": "Jaihind Comprehensive Educational Institute's Jaihind Polytechnic, Kuran,Tal. Junnar"
-    },
-    {
-        "srno": 272,
+        "srno": 93,
         "InstiCode": 6419,
         "InstiName": "Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune"
     },
     {
-        "srno": 273,
-        "InstiCode": 6420,
-        "InstiName": "Shikshan Prasarak Mandal's Polytechnic,Solapur"
-    },
-    {
-        "srno": 274,
-        "InstiCode": 6421,
-        "InstiName": "Dr. D. Y. Patil Prathisthan's Dr. D.Y. Patil Polytechnic, Kolhapur"
-    },
-    {
-        "srno": 275,
-        "InstiCode": 6422,
-        "InstiName": "Bharati Vidyapeeth's Institute of Technology, Palus, Sangli"
-    },
-    {
-        "srno": 276,
-        "InstiCode": 6423,
-        "InstiName": "Shri Jain Vidya Prasarak Mandal's Rasiklal M. Dhariwal Institute of Technology, Chinchwadgaon, Pune"
-    },
-    {
-        "srno": 277,
-        "InstiCode": 6425,
-        "InstiName": "Jaywant shikshan prasarak Mandal,Jaywantrao Sawant Polytechnic, Hadapsar, Pune"
-    },
-    {
-        "srno": 278,
-        "InstiCode": 6426,
-        "InstiName": "People Enpowerment Group,International School of Business & Media, Mulshi."
-    },
-    {
-        "srno": 279,
-        "InstiCode": 6427,
-        "InstiName": "Bhivrabai Sawant Polytechnic, Wagholi, Pune"
-    },
-    {
-        "srno": 280,
-        "InstiCode": 6428,
-        "InstiName": "BMSPM's Ashokrao Mane Polytechnic, Vathar Tarf Vadgaon"
-    },
-    {
-        "srno": 281,
-        "InstiCode": 6429,
-        "InstiName": "Vidya Vikas Pratishthan Polytechnic, Solapur"
-    },
-    {
-        "srno": 282,
-        "InstiCode": 6430,
-        "InstiName": "Genba Sopanrao Moze Institute of Technology, Balewadi, Tal.Haveli"
-    },
-    {
-        "srno": 283,
-        "InstiCode": 6431,
-        "InstiName": "Sai Charitable Trust, Indira Institute Of Diploma Engineering(Poly), Sasure, Tal. Barshi"
-    },
-    {
-        "srno": 284,
-        "InstiCode": 6432,
-        "InstiName": "Shivneri Foundation, Shivneri Polytechnic, Khanapur, Junnar, Pune"
-    },
-    {
-        "srno": 285,
-        "InstiCode": 6433,
-        "InstiName": "Vidyavardhini Charitable Trust's Abhaysinhraje Bhonsle Institute of Technology, Shahunagar- Shendra, Satara"
-    },
-    {
-        "srno": 286,
-        "InstiCode": 6434,
-        "InstiName": "Dinkarrao K. Shinde Smarak Trust, Dr. A.D. Shinde Institute Of Technology, Gadhinglaj"
-    },
-    {
-        "srno": 287,
-        "InstiCode": 6435,
-        "InstiName": "Zeal Education Society, Zeal Polytechnic, Narhe Tal. Haveli, Pune"
-    },
-    {
-        "srno": 288,
-        "InstiCode": 6436,
-        "InstiName": "Sharad Institute of Technology Polytechnic, Yadrav( Ichalkaranji)"
-    },
-    {
-        "srno": 289,
-        "InstiCode": 6437,
-        "InstiName": "Shree Vitthal Edu. and Research Institute, College of Engineering (Polytechnic), Gopalpur, Pandharpur"
-    },
-    {
-        "srno": 290,
-        "InstiCode": 6439,
-        "InstiName": "Y.D.Mane Institute of Technology, Kagal, Kolhapur"
-    },
-    {
-        "srno": 291,
-        "InstiCode": 6441,
-        "InstiName": "Dr.D.Y.Patil Educational Academy's D. Y. Patil Polytechnic, Ambi., Talegaon"
-    },
-    {
-        "srno": 292,
-        "InstiCode": 6442,
-        "InstiName": "Sant Gajanan Maharaj Rural Polytechnic, Gadhingaj, Kolhapur"
-    },
-    {
-        "srno": 293,
-        "InstiCode": 6443,
-        "InstiName": "Shanti Education Society, A.G. Patil Polytechnic Institute, Solapur"
-    },
-    {
-        "srno": 294,
-        "InstiCode": 6444,
-        "InstiName": "Shriram Institute Of Engineering & Technology, (Poly), Paniv"
-    },
-    {
-        "srno": 295,
-        "InstiCode": 6445,
-        "InstiName": "Vidya Pratishthan's Polytechnic College, Vidyanagari, Indapur"
-    },
-    {
-        "srno": 296,
-        "InstiCode": 6446,
-        "InstiName": "Kai. Amdar Bramhadevdada Mane Shikshan Va Samajik Pratishthan,Bramhadevdada Mane Polytechnic, Belati, Noth Solapur"
-    },
-    {
-        "srno": 297,
-        "InstiCode": 6447,
-        "InstiName": "Shree Pandurang Pratishthan, Karmayogi Polytechnic College, Shelvhe, Tal.Pandharpur"
-    },
-    {
-        "srno": 298,
-        "InstiCode": 6448,
-        "InstiName": "Loknete Ma.Hanumantrao Patil Charitable Trust, Adarsh Institute of Technology (Poly), Khambale"
-    },
-    {
-        "srno": 299,
-        "InstiCode": 6449,
-        "InstiName": "Marathwada Mitra Mandal's Polytechnic, Pune"
-    },
-    {
-        "srno": 300,
-        "InstiCode": 6451,
-        "InstiName": "Samarth Rural Education Institute, Samarth Polytechnic, Bangarwadi, Belhe"
-    },
-    {
-        "srno": 301,
-        "InstiCode": 6452,
-        "InstiName": "Shri Umajirao Sanamadikar Medical Foundation's Siddharath Polytechnic, Jath"
-    },
-    {
-        "srno": 302,
-        "InstiCode": 6454,
-        "InstiName": "D. Y. Patil Educational Socity's D.Y. Patil College Of Engineering & Polytechnic, Kolhapur"
-    },
-    {
-        "srno": 303,
-        "InstiCode": 6455,
-        "InstiName": "Sandipani Charitable Trust, M.D. Jadhav Institute Of Technology.,Bhose"
-    },
-    {
-        "srno": 304,
-        "InstiCode": 6456,
-        "InstiName": "Kasegaon Education Soceity's Polytechnic, Lohagaon"
-    },
-    {
-        "srno": 305,
-        "InstiCode": 6457,
-        "InstiName": "Dattakala Shikshan Sanstha's, Dattakala Polytechnic, Daund Dist. Pune"
-    },
-    {
-        "srno": 306,
-        "InstiCode": 6458,
-        "InstiName": "Shri. Siddheshwar Deosthan Trust's Siddheshwar Women's Polytechnic, Solapur"
-    },
-    {
-        "srno": 307,
-        "InstiCode": 6460,
-        "InstiName": "S.C.E.S. Indira School Of Business Studies, Tathwade"
-    },
-    {
-        "srno": 308,
-        "InstiCode": 6462,
-        "InstiName": "Balasaheb Desai Foundation, Shivajirao Desai College Of Polytechnic, Doulatnagar"
-    },
-    {
-        "srno": 309,
-        "InstiCode": 6463,
-        "InstiName": "Mokashi Krishi Vikas Prasisthan's Dadasaheb Mokashi Polytechnic, Sadashivgad, Satara"
-    },
-    {
-        "srno": 310,
-        "InstiCode": 6464,
-        "InstiName": "Rajarshi Shahu Shikshan Sanstha's Vitthal Patil Polytechnic, Miraj"
-    },
-    {
-        "srno": 311,
-        "InstiCode": 6465,
-        "InstiName": "Gaurishankar Education & Charitable Trust, Gaurihar Polytechnic,Limb, Satara"
-    },
-    {
-        "srno": 312,
+        "srno": 102,
         "InstiCode": 6466,
         "InstiName": "Shree Santkrupa Shikshan Sanstha, Shree Santkrupa Institute Of Engineering & Technology, Karad"
     },
     {
-        "srno": 313,
-        "InstiCode": 6467,
-        "InstiName": "Swami Vivekananda Pratisthan, Swami Vivekananda Institute Of Technology,Khed, Solapur"
-    },
-    {
-        "srno": 314,
-        "InstiCode": 6468,
-        "InstiName": "Swami Vivekananda Shikshan Sanstha, Dr. Bapuji Salunkhe Institute Of Engineering & Technology,Kolhapur"
-    },
-    {
-        "srno": 315,
-        "InstiCode": 6469,
-        "InstiName": "Shahajirao Patil Vikas Pratishthan, S. B. Patil Polytechnic, Indapur"
-    },
-    {
-        "srno": 316,
-        "InstiCode": 6470,
-        "InstiName": "Shriram Education Soceity's Shivaji Polytechnic, Atpadi, Sangli"
-    },
-    {
-        "srno": 317,
-        "InstiCode": 6471,
-        "InstiName": "Ramkrishna Technical Education Soceity, Shivaji Polytechnic College, Sangola"
-    },
-    {
-        "srno": 318,
-        "InstiCode": 6472,
-        "InstiName": "Vidyavardhini Educational Academy's Vidyavardhini Institute Of Technology,Bhudargad"
-    },
-    {
-        "srno": 319,
-        "InstiCode": 6473,
-        "InstiName": "Shri. Venkateshwara Shikshan Sanstha's Nanasaheb Mahadik Polytechnic Institute, Peth"
-    },
-    {
-        "srno": 320,
-        "InstiCode": 6474,
-        "InstiName": "Shri Vatavruksha Swami Maharaj Devasthan's, Kai.Kalyanrao (Balasaheb) Ingale Polytechnic College, Akkalkot"
-    },
-    {
-        "srno": 321,
-        "InstiCode": 6475,
-        "InstiName": "Smt. Premalatai Chavan Polytechnic, Karad"
-    },
-    {
-        "srno": 322,
-        "InstiCode": 6476,
-        "InstiName": "Sau. Devibai Narayandas Chhabada Rural Education Soceity,Late N.B. Chhabada Institute Of Engg & Tech.(Poly), Satara"
-    },
-    {
-        "srno": 361,
-        "InstiCode": 6526,
-        "InstiName": "Maharashtra Academy of Engg & Education Research's MIT Polytechnic, Pune"
-    },
-    {
-        "srno": 362,
-        "InstiCode": 6532,
-        "InstiName": "Padmashree D.Y. Patil College of Architecture, Kolhapur"
-    },
-    {
-        "srno": 363,
-        "InstiCode": 6533,
-        "InstiName": "Marathwada Mitra Mandal's College of Architecture, Pune"
-    },
-    {
-        "srno": 364,
-        "InstiCode": 6534,
-        "InstiName": "Appasaheb Birnale College of Architecture, Sangli"
-    },
-    {
-        "srno": 365,
-        "InstiCode": 6535,
-        "InstiName": "Shri Siddheshwar Shikshan Mandal's College of Architecture, Solapur"
-    },
-    {
-        "srno": 366,
-        "InstiCode": 6536,
-        "InstiName": "Vivekanad Institute of Technology Padmbhushan Vasantdada Patil College of Architecture, Pune"
-    },
-    {
-        "srno": 367,
-        "InstiCode": 6537,
-        "InstiName": "M.C.E. Society's Allana College of Architecture, Pune"
-    },
-    {
-        "srno": 368,
-        "InstiCode": 6538,
-        "InstiName": "Padmashree Dr.D.Y.Patil College of Architecture, Pune"
-    },
-    {
-        "srno": 370,
-        "InstiCode": 6541,
-        "InstiName": "All India Shri Shivaji Memorial Society's College of HMCT, Pune"
-    },
-    {
-        "srno": 373,
-        "InstiCode": 6544,
-        "InstiName": "Karmveer Bhaurao Patil Shikshan Sansthan's Sahyadri Polytechnic,Pune"
-    },
-    {
-        "srno": 374,
+        "srno": 106,
         "InstiCode": 6545,
         "InstiName": "Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara."
     },
     {
-        "srno": 377,
-        "InstiCode": 6602,
-        "InstiName": "College Of Engineering, Vairag Tal. Barshi"
-    },
-    {
-        "srno": 378,
-        "InstiCode": 6607,
-        "InstiName": "Institute For Future Education, Entrepreneurship And Leadership, Karla"
-    },
-    {
-        "srno": 380,
+        "srno": 108,
         "InstiCode": 6609,
         "InstiName": "Jaihind College Of Engineering,Kuran"
     },
     {
-        "srno": 382,
-        "InstiCode": 6615,
-        "InstiName": "ISMS Sankalp Business School, Pune"
-    },
-    {
-        "srno": 384,
-        "InstiCode": 6618,
-        "InstiName": "Shriram Institute Of Engineering And Technology Centre, Paniv"
-    },
-    {
-        "srno": 385,
+        "srno": 110,
         "InstiCode": 6620,
         "InstiName": "D. Y. Patil Institute of Engineering and Technology, Ambi"
     },
     {
-        "srno": 386,
-        "InstiCode": 6621,
-        "InstiName": "Institute Of Knowledge-College Of Engineering, Pimpale - Jagtap"
-    },
-    {
-        "srno": 387,
+        "srno": 112,
         "InstiCode": 6622,
         "InstiName": "ISBM College Of Engineering Pune"
     },
     {
-        "srno": 388,
+        "srno": 113,
         "InstiCode": 6625,
         "InstiName": "Universal College of Engineering & Research, Sasewadi"
     },
     {
-        "srno": 391,
-        "InstiCode": 6628,
-        "InstiName": "Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune"
-    },
-    {
-        "srno": 392,
-        "InstiCode": 6629,
-        "InstiName": "Dhananjay Mahadik Group of Institutions, Kagal, Kolhapur"
-    },
-    {
-        "srno": 394,
-        "InstiCode": 6632,
-        "InstiName": "Navsahyadri Education Society's Group of Institutions"
-    },
-    {
-        "srno": 395,
+        "srno": 115,
         "InstiCode": 6634,
         "InstiName": "KJEI's Trinity Academy of Engineering, Yewalewadi, Pune"
     },
     {
-        "srno": 396,
-        "InstiCode": 6635,
-        "InstiName": "Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune"
-    },
-    {
-        "srno": 397,
-        "InstiCode": 6638,
-        "InstiName": "Matrix School of Managment Studies, Ambegaon"
-    },
-    {
-        "srno": 399,
+        "srno": 116,
         "InstiCode": 6640,
         "InstiName": "N. B. Navale Sinhgad College of Engineering, Kegaon, solapur"
     },
     {
-        "srno": 401,
+        "srno": 117,
         "InstiCode": 6643,
         "InstiName": "S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur"
     },
     {
-        "srno": 402,
-        "InstiCode": 6644,
-        "InstiName": "Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj"
-    },
-    {
-        "srno": 403,
-        "InstiCode": 6645,
-        "InstiName": "Sinhgad School of Computer Studies, Kegaon Dist. Solapur"
-    },
-    {
-        "srno": 404,
-        "InstiCode": 6646,
-        "InstiName": "Sinhgad Business School, Kegaon"
-    },
-    {
-        "srno": 405,
+        "srno": 118,
         "InstiCode": 6649,
         "InstiName": "TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune"
     },
     {
-        "srno": 408,
-        "InstiCode": 6712,
-        "InstiName": "Jai Bhavani Education Society,Rajiv Gandhi Polytechnic College,Ziprapwadi, Tal. Phaltan, Dist. Satara"
-    },
-    {
-        "srno": 409,
-        "InstiCode": 6713,
-        "InstiName": "Shetakari Shikshan Prasarak Mandal,Shri. Jayawantrao Bhosale Polytechnic, Kille Machindragad, Tal-Walwa, Dist. Sangli"
-    },
-    {
-        "srno": 410,
-        "InstiCode": 6714,
-        "InstiName": "Shree Datta Shetakari Sahakari Sakhar Karkhana Ltd. Charitable Trust, Shree Datta Polytechnic College, Dattanagar Tal-Shirol, Dist Kolhapur"
-    },
-    {
-        "srno": 411,
-        "InstiCode": 6715,
-        "InstiName": "Dnyan Kala Krida & Krushi Pratishan,Babasaheb Phadtare Polytechnic, Kalamb Walchandnagar, Tal-Indapur, Dist. Pune"
-    },
-    {
-        "srno": 412,
-        "InstiCode": 6716,
-        "InstiName": "Barshi Shikshan Prasarak Mandal, Shriman Bhausaheb Zadbuke Institute of Polytechnic, Puri, Tal-Barshi, Solapur"
-    },
-    {
-        "srno": 413,
-        "InstiCode": 6720,
-        "InstiName": "Shri Balasaheb Mane Shikshan Prasarak Mandal,Ashokrao Mane Polytechnic, Ambap, Tal-Hatkanangle, Dist. Kolhapur"
-    },
-    {
-        "srno": 414,
-        "InstiCode": 6721,
-        "InstiName": "Purogami Shikshan Mandal,Gauri Shiv Polytechnic, Khatav Dist - Satara"
-    },
-    {
-        "srno": 415,
-        "InstiCode": 6722,
-        "InstiName": "SHRI SOMESHWAR SHIKSHAN PRASARAK MANDALS SHARADCHANDRA PAWAR INSTITUTE OF TECHNOLOGY SOMESHWARNAGAR."
-    },
-    {
-        "srno": 416,
-        "InstiCode": 6723,
-        "InstiName": "Chh.Shivaji Shikshan Mandal,Chh.Shivaji Polytechnic Institute,Vaduj, Tal-Khatav, Dist. Satara"
-    },
-    {
-        "srno": 417,
-        "InstiCode": 6724,
-        "InstiName": "Chhatrapati Shahu Education Society,Chhatrapati Shahu Polytechnic, A/P Atit, Dist Satara"
-    },
-    {
-        "srno": 418,
-        "InstiCode": 6725,
-        "InstiName": "New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur"
-    },
-    {
-        "srno": 419,
-        "InstiCode": 6728,
-        "InstiName": "Shri Narsinha Shikshan Prasarak Mandal,Ramrao Nikam Polytechnic College, Indoli Tal-Karad, Dist-Satara"
-    },
-    {
-        "srno": 420,
-        "InstiCode": 6729,
-        "InstiName": "Ninaidevi Shikshan Prasarak Mandal,Shri. Shivajirao Deshmukh Institute of Technology, Shirala, Sangli"
-    },
-    {
-        "srno": 422,
+        "srno": 124,
         "InstiCode": 6732,
         "InstiName": "Dr. D. Y. Patil School OF Engineering, Lohegaon, Pune"
     },
     {
-        "srno": 428,
-        "InstiCode": 6742,
-        "InstiName": "Vidya Pratishthan's School of Architecture, Baramati"
-    },
-    {
-        "srno": 430,
-        "InstiCode": 6751,
-        "InstiName": "ADA's Minverva College of Architecture, Pune"
-    },
-    {
-        "srno": 431,
-        "InstiCode": 6753,
-        "InstiName": "MAEER, MIT School of Business, Kothrud, Pune"
-    },
-    {
-        "srno": 432,
+        "srno": 125,
         "InstiCode": 6754,
         "InstiName": "International Institute of Information Technology (I²IT), Pune."
     },
     {
-        "srno": 433,
+        "srno": 126,
         "InstiCode": 6755,
         "InstiName": "JSPM Narhe Technical Campus, Pune."
     },
     {
-        "srno": 434,
+        "srno": 127,
         "InstiCode": 6756,
         "InstiName": "Fabtech Technical Campus College of Engineering and Research, Sangola"
     },
     {
-        "srno": 435,
+        "srno": 128,
         "InstiCode": 6757,
         "InstiName": "Yashoda Technical Campus, Wadhe, Satara."
     },
     {
-        "srno": 436,
+        "srno": 129,
         "InstiCode": 6758,
         "InstiName": "Sahyadri Valley College of Engineering & Technology, Rajuri, Pune."
     },
     {
-        "srno": 437,
+        "srno": 130,
         "InstiCode": 6759,
         "InstiName": "Shree Ramchandra College of Engineering, Lonikand,Pune"
     },
     {
-        "srno": 438,
-        "InstiCode": 6760,
-        "InstiName": "Lotus Business School, Pune"
-    },
-    {
-        "srno": 439,
+        "srno": 131,
         "InstiCode": 6762,
         "InstiName": "Nanasaheb Mahadik College of Engineering,Walwa, Sangli."
     },
     {
-        "srno": 440,
+        "srno": 132,
         "InstiCode": 6766,
         "InstiName": "Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara"
     },
     {
-        "srno": 441,
+        "srno": 133,
         "InstiCode": 6767,
         "InstiName": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet,Pune."
     },
     {
-        "srno": 442,
+        "srno": 134,
         "InstiCode": 6768,
         "InstiName": "P.K. Technical Campus, Pune."
     },
     {
-        "srno": 443,
+        "srno": 135,
         "InstiCode": 6769,
         "InstiName": "Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune."
     },
     {
-        "srno": 444,
+        "srno": 136,
         "InstiCode": 6770,
         "InstiName": "SKN Sinhgad Institute of Technology & Science, Kusgaon(BK),Pune."
     },
     {
-        "srno": 445,
-        "InstiCode": 6771,
-        "InstiName": "Flora Institute of Technology, Khopi, Near Khed Shivapur Toll Plaza, Pune"
-    },
-    {
-        "srno": 446,
+        "srno": 138,
         "InstiCode": 6772,
         "InstiName": "NBN Sinhgad Technical Institutes Campus, Pune"
     },
     {
-        "srno": 447,
-        "InstiCode": 6773,
-        "InstiName": "Akemi Business School, Mulsi, Pune."
-    },
-    {
-        "srno": 449,
-        "InstiCode": 6777,
-        "InstiName": "Indira Global Business School, Parandwadi Tq. Maval Dist. Pune"
-    },
-    {
-        "srno": 450,
+        "srno": 139,
         "InstiCode": 6780,
         "InstiName": "D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur."
     },
     {
-        "srno": 451,
+        "srno": 140,
         "InstiCode": 6781,
         "InstiName": "Bhagwant Institute of Technology, Barshi"
     },
     {
-        "srno": 452,
+        "srno": 141,
         "InstiCode": 6782,
         "InstiName": "Sahakar Maharshee Shankarrao Mohite Patil Institute of Technology & Research, Akluj"
     },
     {
-        "srno": 455,
+        "srno": 142,
         "InstiCode": 6786,
         "InstiName": "Dr. D. Y. Patil School of Engineering & Technology, Charholi(Bk), Via Lohgaon, Pune"
     },
     {
-        "srno": 456,
+        "srno": 143,
         "InstiCode": 6787,
         "InstiName": "Dr. D. Y. Patil Educational Academy's, D.Y.Patil School of Engineering Academy, Ambi"
     },
     {
-        "srno": 457,
-        "InstiCode": 6788,
-        "InstiName": "Pune Vidyarthi Griha's College of Engineering and Technology and G.K.Pate,(Wani) Institute of Management, Pune"
-    },
-    {
-        "srno": 458,
+        "srno": 145,
         "InstiCode": 6794,
         "InstiName": "Anantrao Pawar College of Engineering & Research, Pune"
     },
     {
-        "srno": 459,
+        "srno": 146,
         "InstiCode": 6795,
         "InstiName": "Shri.Someshwar Shikshan Prasarak Mandal, Sharadchandra Pawar College of Engineering & Technology, Someshwar Nagar"
     },
     {
-        "srno": 460,
+        "srno": 147,
         "InstiCode": 6796,
         "InstiName": "Bharati Vidyapeeth's College of Engineering,Lavale, Pune"
     },
     {
-        "srno": 461,
+        "srno": 148,
         "InstiCode": 6797,
         "InstiName": "Dnyanshree Institute Engineering and Technology, Satara"
     },
     {
-        "srno": 463,
-        "InstiCode": 6799,
-        "InstiName": "Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj"
-    },
-    {
-        "srno": 464,
-        "InstiCode": 6800,
-        "InstiName": "DKTE Society's Yashwantrao Chavan Polytechnic, Ichalkaranji"
-    },
-    {
-        "srno": 465,
+        "srno": 149,
         "InstiCode": 6802,
         "InstiName": "Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune"
     },
     {
-        "srno": 466,
+        "srno": 150,
         "InstiCode": 6803,
         "InstiName": "Sant Gajanan Maharaj College of Engineering, Gadhinglaj"
     },
     {
-        "srno": 467,
-        "InstiCode": 6807,
-        "InstiName": "Ayojan School of Architecture and Design, Pune"
-    },
-    {
-        "srno": 468,
+        "srno": 151,
         "InstiCode": 6808,
         "InstiName": "Keystone School of Engineering, Pune"
     },
     {
-        "srno": 469,
-        "InstiCode": 6809,
-        "InstiName": "Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Degree Engineering, Patgaon, Miraj"
-    },
-    {
-        "srno": 470,
-        "InstiCode": 6810,
-        "InstiName": "The Great Maulana Abul Kalam Azad Minority Educational Trust's Maulana Azad Polytechnic, Solapur"
-    },
-    {
-        "srno": 471,
-        "InstiCode": 6811,
-        "InstiName": "SSDGCT's Sanjay Ghodawat Polytechnic, Kolhapur"
-    },
-    {
-        "srno": 472,
-        "InstiCode": 6812,
-        "InstiName": "Progressive Education Society's Modern Institute of Business Studies, Nigdi, Pune"
-    },
-    {
-        "srno": 474,
-        "InstiCode": 6814,
-        "InstiName": "K.P. Patil Institute ( Polytechnic ), Bhudargad, Dist.Kolhapur"
-    },
-    {
-        "srno": 475,
+        "srno": 152,
         "InstiCode": 6815,
         "InstiName": "Vidya Prasarini Sabha's College of Engineering & Technology, Lonavala"
     },
     {
-        "srno": 476,
-        "InstiCode": 6816,
-        "InstiName": "Shri Chimasaheb jagdale Institute of Technology, Narsobawadi, Tal.Shirol, Kolhapur"
-    },
-    {
-        "srno": 477,
-        "InstiCode": 6817,
-        "InstiName": "Suhas Institute of technology, Javjibuvachiwadi, Post Kasurdi, Daud"
-    },
-    {
-        "srno": 478,
-        "InstiCode": 6818,
-        "InstiName": "Satish Misal Educational Foundation's BRICK school of Architecture, Pune"
-    },
-    {
-        "srno": 479,
-        "InstiCode": 6819,
-        "InstiName": "Smt. Premlatai Chavan College of Architecture Karad, Dist Satara"
-    },
-    {
-        "srno": 481,
+        "srno": 155,
         "InstiCode": 6822,
         "InstiName": "Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet"
     },
     {
-        "srno": 482,
-        "InstiCode": 6823,
-        "InstiName": "Shri.Jain Vidyaparasark Mandal's Rasiklal M. Dhariwal Institute of Pharmceutical Education & Research, Pune."
-    },
-    {
-        "srno": 483,
-        "InstiCode": 6824,
-        "InstiName": "Trinity Polytechnic, Pune"
-    },
-    {
-        "srno": 484,
-        "InstiCode": 6827,
-        "InstiName": "MAHADEVRAO WANDRE INSTITUTE OF TECHNOLOGY, TURKEWADI"
-    },
-    {
-        "srno": 485,
-        "InstiCode": 6828,
-        "InstiName": "Sant Tukaram Polytechnic, Indori, Talegaon"
-    },
-    {
-        "srno": 487,
-        "InstiCode": 6830,
-        "InstiName": "Ashokrao Mane Polytechnic, Save,Tq - Shahu wadi"
-    },
-    {
-        "srno": 488,
-        "InstiCode": 6831,
-        "InstiName": "D.Y. Patil School of Architecture, Pune"
-    },
-    {
-        "srno": 490,
+        "srno": 158,
         "InstiCode": 6834,
         "InstiName": "Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon"
     },
     {
-        "srno": 493,
-        "InstiCode": 6837,
-        "InstiName": "Anantrao Pawar College of Architecture, Parvati, Pune"
-    },
-    {
-        "srno": 494,
+        "srno": 160,
         "InstiCode": 6839,
         "InstiName": "Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur"
     },
     {
-        "srno": 495,
-        "InstiCode": 6840,
-        "InstiName": "S.B. Patil College of Architecture & Design,Nigdi,Pune"
-    },
-    {
-        "srno": 496,
-        "InstiCode": 6842,
-        "InstiName": "Padmashree Dr. D. Y. Patil B-School, Pune"
-    },
-    {
-        "srno": 497,
+        "srno": 161,
         "InstiCode": 6878,
         "InstiName": "Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur"
     },
+
     {
-        "srno": 499,
-        "InstiCode": 6880,
-        "InstiName": "Yashoda College of Architecture, Satara"
-    },
-    {
-        "srno": 500,
-        "InstiCode": 6881,
-        "InstiName": "Army Institute of Technology, Pune"
-    },
-    {
-        "srno": 501,
-        "InstiCode": 6882,
-        "InstiName": "Indira College of Architecture & Design"
-    },
-    {
-        "srno": 502,
-        "InstiCode": 6883,
-        "InstiName": "K.J.Education Institute Pune, Trinity College of Architecture, Pune"
-    },
-    {
-        "srno": 503,
-        "InstiCode": 6884,
-        "InstiName": "Ideal College of Architecture, Kondigre, Shirol"
-    },
-    {
-        "srno": 504,
-        "InstiCode": 6885,
-        "InstiName": "Shrimati Kashibai Navale College of Architecture, Ambegaon(BK)"
-    },
-    {
-        "srno": 507,
-        "InstiCode": 6888,
-        "InstiName": "Tatyasaheb Kore Institute of Engineering & Technology(Polytechnic), Warananagar"
-    },
-    {
-        "srno": 513,
-        "InstiCode": 6894,
-        "InstiName": "Vidya Pratishthan's Indapur College of Architecture, Indapur, Pune"
-    },
-    {
-        "srno": 514,
-        "InstiCode": 6895,
-        "InstiName": "Walwa Taluka Education Society's Shri. S. D. Patil College of Architecture, Islampur"
-    },
-    {
-        "srno": 515,
-        "InstiCode": 6896,
-        "InstiName": "Shri. Shivaji Maratha Society's College of Architecture, Pune"
-    },
-    {
-        "srno": 516,
-        "InstiCode": 6897,
-        "InstiName": "Pune District Education Association's College of Architecture, Akurdi"
-    },
-    {
-        "srno": 517,
-        "InstiCode": 6899,
-        "InstiName": "Chhatrapati Shahu Institute of Business Education & Research, Kolhapur"
-    },
-    {
-        "srno": 519,
+        "srno": 163,
         "InstiCode": 6901,
         "InstiName": "MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi"
     },
-    {
-        "srno": 520,
-        "InstiCode": 6902,
-        "InstiName": "Indrayani Vidya Mandir's Indrayani Institute of Pharamaceutical Education & Research, Maval, Pune"
-    },
-    {
-        "srno": 526,
-        "InstiCode": 6908,
-        "InstiName": "Ashokrao Mane Institute of Pharmaceutical Science and Research, Save"
-    },
-    {
-        "srno": 530,
-        "InstiCode": 6912,
-        "InstiName": "Flora College of Architecture, Khopi"
-    },
-    {
-        "srno": 531,
-        "InstiCode": 6913,
-        "InstiName": "Marathwada Mitra Mandals Institute of Enviornment and Design's college of Architecture"
-    },
-    {
-        "srno": 532,
-        "InstiCode": 6914,
-        "InstiName": "Institute of Pharmaceutical Science & Research for Girls, (Bhigwan), Daund"
-    },
-    {
-        "srno": 535,
-        "InstiCode": 6917,
-        "InstiName": "shfited to 5465"
-    },
-    {
-        "srno": 537,
-        "InstiCode": 6919,
-        "InstiName": "D.Y. Patil Education Society's D.Y. Patil College of Architecture, Talsande, Kolhapur"
-    },
-    {
-        "srno": 538,
-        "InstiCode": 6920,
-        "InstiName": "Solapur Education Society's College of Architecture, Solapur"
-    },
-    {
-        "srno": 542,
-        "InstiCode": 6924,
-        "InstiName": "ASM's Institute of Business Managment & Research(PGDM), Pune"
-    },
-    {
-        "srno": 543,
-        "InstiCode": 6925,
-        "InstiName": "Institute of Infrastructure Studies and Construction Management, Ambi, Pune."
-    },
-    {
-        "srno": 544,
-        "InstiCode": 6926,
-        "InstiName": "Siddhant college of Architecture, Sudambare"
-    },
-    {
-        "srno": 546,
-        "InstiCode": 6928,
-        "InstiName": "Dattakala Institute Of Hotel Management And Catering Technology, Swami-Chnicholi, Daund"
-    },
-    {
-        "srno": 556,
-        "InstiCode": 6938,
-        "InstiName": "Shree Siddheshwar Women's College Of Engineering Solapur."
-    },
-    {
-        "srno": 558,
-        "InstiCode": 6940,
-        "InstiName": "Ashokrao Mane College of Architecture, Vathar Tarf Vadgaon"
-    },
-    {
-        "srno": 560,
-        "InstiCode": 6942,
-        "InstiName": "Shardabai Pawar Institute Of Pharmaceutical Sciences And Research, Shardanagar, Baramati"
-    },
-    {
-        "srno": 562,
-        "InstiCode": 6951,
-        "InstiName": "Mandesh Institute Of Pharmaceutical Science And Research Centre Mhaswad"
-    },
-    {
-        "srno": 563,
-        "InstiCode": 6952,
-        "InstiName": "Mahadev Kanchan College Of Pharmaceutical Education And Research"
-    },
-    {
-        "srno": 569,
-        "InstiCode": 6959,
-        "InstiName": "Tatyasaheb Kore College of Architecture, Warnanagar"
-    },
-    {
-        "srno": 570,
-        "InstiCode": 6960,
-        "InstiName": "Dr. J.J. Magdum College of Architecture, Jaysingpur"
-    },
-    {
-        "srno": 571,
-        "InstiCode": 6961,
-        "InstiName": "Lokmanya Tilak Institute of Pharmaceutical Sciences, Pune"
-    },
-    {
-        "srno": 576,
-        "InstiCode": 6966,
-        "InstiName": "S.P.Mandali's Prin.N.G.Naralkar Institute Of Career Development And Research, Pune"
-    }
+
+   
 ]
