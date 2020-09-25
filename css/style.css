@@ -7,13 +7,13 @@ body {
     font-family: 'Lato', sans serif;
 }
 
-.fa {
+/* .fa {
     color: #73D2DE;
 }
 
 .fa-light {
     color: white;
-}
+} */
 
 a {
     text-decoration: none;
@@ -37,7 +37,7 @@ a:hover {
 }
 
 .a-dark:hover {
-    color: black;
+    color: white;
 }
 
 .card {
