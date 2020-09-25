@@ -1,213 +1,117 @@
-[{
+[   {
     "srno": 1,
-    "InstiCode": 2002,
-    "InstiName": "Dr. Babasaheb Ambedkar Marathwada University, Sub Centre, Osmanabad"
-}, {
-    "srno": 2,
-    "InstiCode": 2005,
-    "InstiName": "Dr. Babasaheb Ambedkar Marathwada Vidyapeeth,(Aurangabad) Sub Section - Osmanabad"
-}, {
-    "srno": 3,
-    "InstiCode": 2007,
-    "InstiName": "Swami Ramanand Teerth Marathwada Vidyapeeth, Nanded"
-}, {
-    "srno": 4,
     "InstiCode": 2008,
     "InstiName": "Government College of Engineering, Aurangabad"
 }, {
-    "srno": 5,
+    "srno": 2,
     "InstiCode": 2020,
     "InstiName": "Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded"
 }, {
-    "srno": 6,
+    "srno": 3,
     "InstiCode": 2021,
     "InstiName": "University Department of Chemical Technology, Aurangabad"
 }, {
-    "srno": 7,
-    "InstiCode": 2030,
-    "InstiName": "Department of Computer Science and IT, Dr. Babasaheb Ambedkar Marathwada University, Aurangabad"
-}, {
-    "srno": 8,
+    "srno": 4,
     "InstiCode": 2111,
     "InstiName": "Everest Education Society, Group of Institutions (Integrated Campus), Ohar"
 }, {
-    "srno": 9,
+    "srno": 5,
     "InstiCode": 2112,
     "InstiName": "Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad"
 }, {
-    "srno": 10,
+    "srno": 6,
     "InstiCode": 2113,
     "InstiName": "G. S. Mandal's Maharashtra Institute of Technology, Aurangabad"
 }, {
-    "srno": 11,
+    "srno": 7,
     "InstiCode": 2114,
     "InstiName": "Deogiri Institute of Engineering and Management Studies, Aurangabad"
 }, {
-    "srno": 12,
+    "srno": 8,
     "InstiCode": 2116,
     "InstiName": "Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded"
-}, {
-    "srno": 13,
-    "InstiCode": 2119,
-    "InstiName": "Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded"
-}, {
-    "srno": 14,
-    "InstiCode": 2120,
-    "InstiName": "Dnyanopasak Shikshan Mandal's Institute of Information Technology & Management, Parbhani."
-}, {
-    "srno": 15,
-    "InstiCode": 2123,
-    "InstiName": "Shri Mahatma Basweshwar Edu. Society Institute of Computer Education, Latur"
-}, {
-    "srno": 16,
-    "InstiCode": 2124,
-    "InstiName": "Maratha Education Society's Institute of Management studies & Information Technology, Aurangabad"
-}, {
-    "srno": 17,
-    "InstiCode": 2125,
-    "InstiName": "S.V.S.P. Mandal's Swami Vivekanand Institute of Technology and Mangement ,Udgir"
-}, {
-    "srno": 18,
+},  {
+    "srno": 9,
     "InstiCode": 2126,
     "InstiName": "Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad"
 }, {
-    "srno": 19,
+    "srno": 10,
     "InstiCode": 2127,
     "InstiName": "Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded."
-}, {
-    "srno": 20,
-    "InstiCode": 2128,
-    "InstiName": "Maharashtra College of Engineering, Nilanga"
-}, {
-    "srno": 21,
+},  {
+    "srno": 11,
     "InstiCode": 2129,
     "InstiName": "M.S. Bidve Engineering College, Latur"
 }, {
-    "srno": 22,
+    "srno": 12,
     "InstiCode": 2130,
     "InstiName": "Terna Public Charitable Trust's College of Engineering, Osmanabad"
 }, {
-    "srno": 23,
+    "srno": 13,
     "InstiCode": 2131,
     "InstiName": "Shree Tuljabhavani College of Engineering, Tuljapur"
 }, {
-    "srno": 24,
+    "srno": 14,
     "InstiCode": 2132,
     "InstiName": "M.G.M.'s Jawaharlal Nehru Engineering College, Aurangabad"
 }, {
-    "srno": 25,
+    "srno": 15,
     "InstiCode": 2133,
     "InstiName": "Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai"
 }, {
-    "srno": 26,
+    "srno": 16,
     "InstiCode": 2134,
     "InstiName": "Peoples Education Society's College of Engineering, Aurangabad"
 }, {
-    "srno": 27,
+    "srno": 17,
     "InstiCode": 2135,
     "InstiName": "Hi-Tech Institute of Technology, Aurangabad"
 }, {
-    "srno": 28,
+    "srno": 18,
     "InstiCode": 2136,
     "InstiName": "Aditya Engineering College , Beed"
 }, {
-    "srno": 29,
+    "srno": 19,
     "InstiCode": 2137,
     "InstiName": "Nagnathappa Halge Engineering College, Parli, Beed"
 }, {
-    "srno": 30,
+    "srno": 20,
     "InstiCode": 2138,
     "InstiName": "Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna"
 }, {
-    "srno": 31,
+    "srno": 21,
     "InstiCode": 2141,
     "InstiName": "Shri Sai Samajik Vikas Santha's Shri Sai Colllege of Engineering, Paddari Village Tal. & Dist. Aurangabad"
-}, {
-    "srno": 32,
-    "InstiCode": 2144,
-    "InstiName": "Maharashtra Education Society's Maharashtra Udayagiri Institute of Management & Technology, Somnathpur"
-}, {
-    "srno": 33,
-    "InstiCode": 2145,
-    "InstiName": "Geetai Charitable Trust's Khurana Sawant Institute of Engineering & Technology, Balsond, Hingoli."
-}, {
-    "srno": 34,
+},  {
+    "srno": 22,
     "InstiCode": 2146,
     "InstiName": "Adarsh Shikshan Prasarak Mandal's K. T. Patil College of Engineering and Technology, Osmanabad"
 }, {
-    "srno": 35,
-    "InstiCode": 2160,
-    "InstiName": "G.S. Mandals Marathwada Institute of Technology (Arch.), Aurangabad"
-}, {
-    "srno": 36,
-    "InstiCode": 2161,
-    "InstiName": "Javaharlal Nehru Institute of Education Science & Technological Research, Mahatma Gandhi College of Architecture, Vasara"
-}, {
-    "srno": 37,
-    "InstiCode": 2171,
-    "InstiName": "Gramodyogik Shikshan Mandal's Marathwada Institute Of Technology, Rotegaon, Vaijapur, Dist. Aurangabad."
-}, {
-    "srno": 38,
-    "InstiCode": 2224,
-    "InstiName": "Gramodyogik Shikshan Mandal's Marathwada Institute of Technology, Aurangabad"
-}, {
-    "srno": 39,
+    "srno": 23,
     "InstiCode": 2250,
     "InstiName": "Aurangabad College of Engineering, Naygaon Savangi, Aurangabad"
 }, {
-    "srno": 40,
+    "srno": 24,
     "InstiCode": 2252,
     "InstiName": "Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani"
 }, {
-    "srno": 42,
+    "srno": 25,
     "InstiCode": 2254,
     "InstiName": "Vilasrao Deshmukh Foundation Group of Institutions, Latur"
 }, {
-    "srno": 42,
+    "srno": 26,
     "InstiCode": 2255,
     "InstiName": "Balaghat Engineering College,Ruddha, Ahmedpur"
-}, {
-    "srno": 43,
-    "InstiCode": 2279,
-    "InstiName": "Ransamrat Kreeda Mandal's Rajarshi Shahu Institue of Technology,Parli Road Kallam, Dist. Osmanabad"
-}, {
-    "srno": 44,
-    "InstiCode": 2283,
-    "InstiName": "Phoenix Foundation Sanstha's Phoenix Institute Of Technology,Lodga, Tal. Asua,Dist. Latur"
-}, {
-    "srno": 45,
-    "InstiCode": 2289,
-    "InstiName": "Baliram Patil Mission's S.N.Rai Institute of Engg. & Technology Shrikshtra , Mahur Dist Nanded."
-}, {
-    "srno": 46,
-    "InstiCode": 2296,
-    "InstiName": "Sevadas Shikshan Prasarak Mandal's Vasantrao Naik Instiute of Technology, Vasarni, Nanded"
-}, {
-    "srno": 47,
-    "InstiCode": 2515,
-    "InstiName": "Sai Institute of Engineering & Technology, Bilda, Aurangabad."
-}, {
-    "srno": 48,
+},  {
+    "srno": 27,
     "InstiCode": 2516,
     "InstiName": "International Centre Of Excellence In Engineering and Management (ICEEM)"
 }, {
-    "srno": 49,
+    "srno": 28,
     "InstiCode": 2522,
     "InstiName": "STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur."
 }, {
-    "srno": 50,
-    "InstiCode": 2529,
-    "InstiName": "V.J. Shinde College of Engineering, Osmanabad."
-}, {
-    "srno": 51,
+    "srno": 29,
     "InstiCode": 2533,
     "InstiName": "CSMSS Chh. Shahu College of Engineering, Aurangabad"
-}, {
-    "srno": 52,
-    "InstiCode": 2534,
-    "InstiName": "Swami Vikekanand Institute of Polytechnic, Latur"
-}, {
-    "srno": 53,
-    "InstiCode": 2535,
-    "InstiName": "D.B.Group of Instituions, School of Technology, At.Mahalangra, Tal.Chakur,Latur"
-}]
+},]

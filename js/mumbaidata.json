@@ -1,8 +1,4 @@
-[{
-        "srno": "1",
-        "InstiCode": "3006",
-        "InstiName": "Government Institute of Printing Technology"
-    },
+[
     {
         "srno": "2",
         "InstiCode": "3012",
@@ -13,16 +9,7 @@
         "InstiCode": "3014",
         "InstiName": "Sardar Patel College of Engineering"
     },
-    {
-        "srno": "4",
-        "InstiCode": "3023",
-        "InstiName": "St. Xavier's Technical Institute"
-    },
-    {
-        "srno": "5",
-        "InstiCode": "3032",
-        "InstiName": "S.N.D.T Women's University P.G.D. of Computer Science"
-    },
+
     {
         "srno": "6",
         "InstiCode": "3033",
@@ -33,21 +20,9 @@
         "InstiCode": "3035",
         "InstiName": "Usha Mittal Institute of Technology SNDT Women's University"
     },
-    {
-        "srno": "8",
-        "InstiCode": "3036",
-        "InstiName": "Institute of Chemical Technology"
-    },
-    {
-        "srno": "9",
-        "InstiCode": "3040",
-        "InstiName": "Dr. Babasaheb Ambedkar Tech.University"
-    },
-    {
-        "srno": "10",
-        "InstiCode": "3125",
-        "InstiName": "Audyogik Shikshan Mandal's Institute of Management & Computer Studies"
-    },
+    
+    
+    
     {
         "srno": "11",
         "InstiCode": "3135",
@@ -63,11 +38,7 @@
         "InstiCode": "3146",
         "InstiName": "Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering"
     },
-    {
-        "srno": "14",
-        "InstiCode": "3147",
-        "InstiName": "Saraswati Education Society"
-    },
+    
     {
         "srno": "15",
         "InstiCode": "3148",
@@ -78,26 +49,7 @@
         "InstiCode": "3154",
         "InstiName": "Saraswati Education Society's Saraswati College of Engineering"
     },
-    {
-        "srno": "17",
-        "InstiCode": "3162",
-        "InstiName": "Bharti Vidyapeeth's Institute of Management & Information Technology"
-    },
-    {
-        "srno": "18",
-        "InstiCode": "3167",
-        "InstiName": "Mumbai Education Trust's Institute of Computer Science"
-    },
-    {
-        "srno": "19",
-        "InstiCode": "3169",
-        "InstiName": "Late Bhausaheb Hiray S. S. Trust's Institute of Computer Application"
-    },
-    {
-        "srno": "20",
-        "InstiCode": "3173",
-        "InstiName": "Deccan Education Society's Navinchandra Mehta Institute of Technology & Development"
-    },
+    
     {
         "srno": "21",
         "InstiCode": "3174",
@@ -158,11 +110,7 @@
         "InstiCode": "3190",
         "InstiName": "Terna Engineering College"
     },
-    {
-        "srno": "33",
-        "InstiCode": "3191",
-        "InstiName": "Mandar Education Society's Rajaram Shinde College of Engineering"
-    },
+    
     {
         "srno": "34",
         "InstiCode": "3192",
@@ -288,11 +236,7 @@
         "InstiCode": "3219",
         "InstiName": "Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology"
     },
-    {
-        "srno": "59",
-        "InstiCode": "3220",
-        "InstiName": "Imperial College Of Engineering"
-    },
+    
     {
         "srno": "60",
         "InstiCode": "3222",
@@ -308,36 +252,7 @@
         "InstiCode": "3224",
         "InstiName": "Leela Education Society"
     },
-    {
-        "srno": "63",
-        "InstiCode": "3255",
-        "InstiName": "Mandar Education Society's Rajaram Shinde Institute of Engineering and Technology"
-    },
-    {
-        "srno": "64",
-        "InstiCode": "3256",
-        "InstiName": "Bharati Vidyapeeth's Institute of Technology"
-    },
-    {
-        "srno": "65",
-        "InstiCode": "3260",
-        "InstiName": "Khalapur Taluka Shikshan Prasarak Mandal's"
-    },
-    {
-        "srno": "66",
-        "InstiCode": "3270",
-        "InstiName": "Maratha Mandir's Babasaheb Gawade Institute of Technology"
-    },
-    {
-        "srno": "67",
-        "InstiCode": "3279",
-        "InstiName": "Institute of Printing Technoloy and Research"
-    },
-    {
-        "srno": "68",
-        "InstiCode": "3281",
-        "InstiName": "Saraswati Education Society"
-    },
+    
     {
         "srno": "69",
         "InstiCode": "3351",
@@ -373,11 +288,7 @@
         "InstiCode": "3447",
         "InstiName": "G.M.Vedak Institute of Technology"
     },
-    {
-        "srno": "76",
-        "InstiCode": "3449",
-        "InstiName": "S.K.Education Trust"
-    },
+    
     {
         "srno": "77",
         "InstiCode": "3460",
@@ -408,12 +319,7 @@
         "srno": "82",
         "InstiCode": "3477",
         "InstiName": "Chhartrapati Shivaji Maharaj Institute of Technology"
-    },
-
-    {
-        "srno": "83",
-        "InstiCode": "3503",
-        "InstiName": "Indala College Of Engineering"
     }
 
+    
 ]
