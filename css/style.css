@@ -24,12 +24,11 @@ a:hover {
 }
 
 .a-dark {
-    color: black;
-    font-family: 'Poppins', sans-serif;
+    color:white;
 }
 
 .a-dark:hover {
-    color: white;
+    color: black;
 }
 
 .card {
@@ -65,6 +64,15 @@ input {
     height: 20vh;
     /* border: 2px solid black; */
 }
+
+.fa{
+    color: #73D2DE;
+}
+
+.fa-light{
+    color: white;
+}
+
 
 
 /* Navigation start */
