@@ -38,7 +38,7 @@ a:hover {
 }
 
 .card:hover {
-    transition: transform 1s;
+    transition: transform 0.5s;
     transform: scale3d(1.04, 1.04, 1.04);
 }
 
