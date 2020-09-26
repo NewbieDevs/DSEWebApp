@@ -162,5 +162,10 @@ table {
     display: table-row;
 }
 
+/* fb comments section */
+
+div .fb-comments{
+    margin-left: 0vw !important;
+}
 
 
