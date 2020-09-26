@@ -15,7 +15,8 @@
             $('#download').hide();
         });
     </script>
-
+    <script src="../js/Search.js">
+    </script>
 </head>
 
 <body class="table-body" onload="loadTable('punedata.json','Pune')">
@@ -47,7 +48,10 @@
     <!--[if lt IE 7]>
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-    <div id="titleDiv"></div>
+
+    <div id="titleDiv">
+    </div>
+    <div><input type="text" id="searchInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name"></div>
     <div id="div1">
 
         <div id="div1">

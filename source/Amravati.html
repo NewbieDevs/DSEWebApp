@@ -12,6 +12,8 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/WebappTables.css">
+    <script src="../js/Search.js">
+    </script>
 </head>
 
 <body class="table-body" onload="loadTable('amravatidata.json','Amravati')">
@@ -43,6 +45,7 @@
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
     <div id="titleDiv"></div>
+    <div><input type="text" id="searchInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name"></div>
     <div id="div1">
 
     </div>
