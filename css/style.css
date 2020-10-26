@@ -22,7 +22,7 @@ a:hover {
 }
 
 .a-light:hover {
-    color: black;
+    color: gray;
 }
 
 .a-dark {
@@ -30,7 +30,7 @@ a:hover {
 }
 
 .a-dark:hover {
-    color: black;
+    color: gray;
 }
 
 .card {
@@ -88,7 +88,7 @@ input {
 }
 
 .navbar-brand {
-    color: black !important;
+    color: rgb(252, 248, 248) !important;
 }
 
 
@@ -115,6 +115,18 @@ input {
     border-top-right-radius: 15px;
     background: #003171;
     box-shadow: 1px 1px 8px black;
+}
+
+.page-footer p {
+    color: white;
+}
+
+.footer-copyright {
+    color: white;
+}
+
+h5.text-uppercase {
+    color: white;
 }
 
 
