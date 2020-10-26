@@ -9,14 +9,12 @@ body {
     font-weight: 510;
 }
 
-
-
 a {
     text-decoration: none;
 }
 
 .a-light {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 a:hover {
@@ -28,7 +26,7 @@ a:hover {
 }
 
 .a-dark {
-    color: rgba(78, 75, 75, 0.9);
+    color: rgba(250, 250, 250, 0.9);
 }
 
 .a-dark:hover {
@@ -69,20 +67,19 @@ input {
     /* border: 2px solid black; */
 }
 
-.fa{
+.fa {
     color: #73D2DE;
 }
 
-.fa-light{
+.fa-light {
     color: white;
 }
-
 
 
 /* Navigation start */
 
 .navbar {
-    background-color: #73D2DE;
+    background-color: #003171;
     width: 92vw;
     margin: auto;
     border-bottom-left-radius: 15px;
@@ -90,10 +87,10 @@ input {
     box-shadow: 1px 1px 4px black;
 }
 
-
-.navbar-brand{
+.navbar-brand {
     color: black !important;
 }
+
 
 /* Set the border color to the desired color */
 
@@ -116,7 +113,7 @@ input {
     margin: auto;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    background: #73D2DE;
+    background: #003171;
     box-shadow: 1px 1px 8px black;
 }
 
@@ -166,10 +163,9 @@ table {
     display: table-row;
 }
 
+
 /* fb comments section */
 
-div .fb-comments{
+div .fb-comments {
     margin-left: 0vw !important;
 }
-
-
