@@ -28,7 +28,7 @@ a:hover {
 }
 
 .a-dark {
-    color:white;
+    color: rgba(78, 75, 75, 0.9);
 }
 
 .a-dark:hover {
