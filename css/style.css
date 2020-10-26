@@ -22,15 +22,17 @@ a:hover {
 }
 
 .a-light:hover {
-    color: gray;
+    color: rgb(194, 192, 192);
 }
 
 .a-dark {
-    color: rgba(250, 250, 250, 0.9);
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
 }
 
 .a-dark:hover {
-    color: gray;
+    color: rgb(194, 192, 192);
+    font-family: 'Poppins', sans-serif;
 }
 
 .card {
@@ -67,6 +69,10 @@ input {
     /* border: 2px solid black; */
 }
 
+.card{
+    color: #003171;
+}
+
 .fa {
     color: #73D2DE;
 }
@@ -91,6 +97,9 @@ input {
     color: rgb(252, 248, 248) !important;
 }
 
+.nav-item{
+    font-family: 'Roboto', sans-serif;
+}
 
 /* Set the border color to the desired color */
 
@@ -117,12 +126,17 @@ input {
     box-shadow: 1px 1px 8px black;
 }
 
+.page-footer h5{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
 .page-footer p {
     color: white;
 }
 
 .footer-copyright {
     color: white;
+    font-family: 'Roboto', sans-serif;
 }
 
 h5.text-uppercase {
@@ -180,4 +194,13 @@ table {
 
 div .fb-comments {
     margin-left: 0vw !important;
+}
+
+
+@media ( max-width: 768px ){
+    .horizontal-sm-li li{
+        display: inline;
+        padding-left: 10px;
+        padding-top: 5px;
+    }
 }
