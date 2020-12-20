@@ -5,26 +5,26 @@ table td {
 }
 
 table th {
-    background-color: #003171;
+    background-color: #3498DB;
     color: aliceblue;
     text-align: center;
     
 }
-
-.btn{
-    box-shadow: 1px 1px 4px black;
+.btn {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.btn-primary{
-    background: #73D2DE;
+.btn-primary {
+    transition: 0.3s;
+    background: #22A2AF;
     color: white;
     border: white;
 }
 
-.btn-primary:hover{
-    background: black;
+.btn-primary:hover {
+    opacity: 1;
+    background: #2B3436;
 }
-
 
 .page-header {
     font-family: Georgia, 'Times New Roman', Times, serif;
