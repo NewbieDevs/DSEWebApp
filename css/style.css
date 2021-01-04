@@ -229,6 +229,20 @@ table {
     display: table-row;
 }
 
+.fadeInDown{ 
+    animation: fadeInAnimation ease 3s; 
+    animation-iteration-count: 1; 
+    animation-fill-mode: forwards; 
+    animation-duration: 2s;
+} 
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+    } 
+}
 
 /* fb comments section */
 
